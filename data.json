@@ -1,0 +1,203 @@
+{
+ "stats": {
+  "sources": 13,
+  "facts": 6,
+  "proposals": 3,
+  "updated": "2026-08-25",
+  "redflags": 1
+ },
+ "sources": [
+  {
+   "id": "j-Y2PbG7b1k",
+   "url": "https://www.youtube.com/watch?v=j-Y2PbG7b1k",
+   "title": "IRS Cracking Down on Side Hustle Income (Avoid These Mistakes!)",
+   "channel": "ClearValue Tax",
+   "platform": "youtube",
+   "scraped_at": "2026-08-25 02:14:54"
+  },
+  {
+   "id": "-eEwc3SWQh8",
+   "url": "https://www.youtube.com/watch?v=-eEwc3SWQh8",
+   "title": "How to Check If an AI Side Hustle Is Legit",
+   "channel": "Hustle For Street",
+   "platform": "youtube",
+   "scraped_at": "2026-08-25 02:14:53"
+  },
+  {
+   "id": "ntpzN_XlDXw",
+   "url": "https://www.youtube.com/watch?v=ntpzN_XlDXw",
+   "title": "The IRS AI is Hunting Side Hustles 3 Red Flags to Wipe Out NOW",
+   "channel": "Tax Goddess - Top 1% Tax Strategist in USA",
+   "platform": "youtube",
+   "scraped_at": "2026-08-25 02:14:51"
+  },
+  {
+   "id": "ymyir9dXjd8",
+   "url": "https://www.youtube.com/watch?v=ymyir9dXjd8",
+   "title": "I Tracked 100 \"I Make $10K/Month With AI\" Claims, How many are Real?",
+   "channel": "AI side hustle tutorial",
+   "platform": "youtube",
+   "scraped_at": "2026-08-25 02:14:50"
+  },
+  {
+   "id": "ytAW1_g2IfI",
+   "url": "https://www.youtube.com/watch?v=ytAW1_g2IfI",
+   "title": "Laziest Ways to Make Money with AI (For Beginners)",
+   "channel": "Mark Tilbury",
+   "platform": "youtube",
+   "scraped_at": "2026-08-25 02:14:49"
+  },
+  {
+   "id": "z_Ib7A0-0R4",
+   "url": "https://www.youtube.com/watch?v=z_Ib7A0-0R4",
+   "title": "Laziest Ways To Make Money With AI ($100/day+)",
+   "channel": "Jordan Welch",
+   "platform": "youtube",
+   "scraped_at": "2026-08-25 02:14:47"
+  },
+  {
+   "id": "uz_3dSU8rQo",
+   "url": "https://www.youtube.com/watch?v=uz_3dSU8rQo",
+   "title": "Laziest Way to Make Money with AI (Starting From Zero)",
+   "channel": "Dan Martell",
+   "platform": "youtube",
+   "scraped_at": "2026-08-25 02:14:46"
+  },
+  {
+   "id": "xYsafbVLJG4",
+   "url": "https://www.youtube.com/watch?v=xYsafbVLJG4",
+   "title": "\ud83e\udd2f How To Build An App in 5 Minutes That Pays You Forever! AI Side Hustle Nobody Talks About",
+   "channel": "Nikki Connected",
+   "platform": "youtube",
+   "scraped_at": "2026-08-25 02:14:45"
+  },
+  {
+   "id": "sEfuolqQstA",
+   "url": "https://www.youtube.com/watch?v=sEfuolqQstA",
+   "title": "5 BEST AI Side Hustles for Beginners in 2026 (Personally Tested)",
+   "channel": "Paul J Lipsky",
+   "platform": "youtube",
+   "scraped_at": "2026-08-25 02:14:44"
+  },
+  {
+   "id": "MEPnlsiDgM0",
+   "url": "https://www.youtube.com/watch?v=MEPnlsiDgM0",
+   "title": "I built a real app in 5 days with AI (side hustle)",
+   "channel": "Mikey No Code",
+   "platform": "youtube",
+   "scraped_at": "2026-08-25 02:14:41"
+  },
+  {
+   "id": "8NvhbfZNTrc",
+   "url": "https://www.youtube.com/watch?v=8NvhbfZNTrc",
+   "title": "The Best AI Side Hustles To Start If You're BROKE",
+   "channel": "Wholesale Ted",
+   "platform": "youtube",
+   "scraped_at": "2026-08-25 02:14:39"
+  },
+  {
+   "id": "N6YCF0bZGNs",
+   "url": "https://www.youtube.com/watch?v=N6YCF0bZGNs",
+   "title": "The Lazy 5 Minute AI Method To Make $100/Day Online For Beginners",
+   "channel": "Joshua Elder",
+   "platform": "youtube",
+   "scraped_at": "2026-08-24 13:00:41"
+  },
+  {
+   "id": "3aeAy3Qs2UA",
+   "url": "https://www.youtube.com/watch?v=3aeAy3Qs2UA",
+   "title": "How to Sell AI Websites to Local Businesses in 2026 (No Tech Skills)",
+   "channel": "The Savvy Couple - Kelan & Brittany ",
+   "platform": "youtube",
+   "scraped_at": "2026-08-24 13:00:20"
+  }
+ ],
+ "facts": [
+  {
+   "id": 6,
+   "source_id": "digest",
+   "category": "math",
+   "content": "Tool stack costs for advanced AI video generation workflows include approximately $120 a month for Google Flow and $20 a month for ChatGPT.",
+   "math": "$120/mo and $20/mo",
+   "links": "[]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-08-25 02:14:57"
+  },
+  {
+   "id": 5,
+   "source_id": "digest",
+   "category": "redflag",
+   "content": "Platforms asking for money to apply, demanding excessive personal information without privacy policies, or promising guaranteed daily earnings are scam signals.",
+   "math": "",
+   "links": "[]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-08-25 02:14:57"
+  },
+  {
+   "id": 4,
+   "source_id": "digest",
+   "category": "method",
+   "content": "Local lead generation websites can be pitched to small business owners to help them rank higher on Google and collect customer info.",
+   "math": "3000",
+   "links": "[]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-08-25 02:14:57"
+  },
+  {
+   "id": 3,
+   "source_id": "digest",
+   "category": "site",
+   "content": "Shopify offers a 3-day free trial and AutoDS integration starting at 99 cents for e-commerce store automation.",
+   "math": "3-day free trial, $0.99",
+   "links": "[]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-08-25 02:14:57"
+  },
+  {
+   "id": 2,
+   "source_id": "digest",
+   "category": "math",
+   "content": "Startup capital for building AI-assisted web apps and sites typically ranges from $20 to $40 a month in tool subscriptions.",
+   "math": "$20 to $40 a month",
+   "links": "[]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-08-25 02:14:57"
+  },
+  {
+   "id": 1,
+   "source_id": "digest",
+   "category": "tax",
+   "content": "Under IRS rules, side hustle income is any money earned outside a normal W2 paycheck for products or services, and payment apps have a $20,000 and 200 transaction threshold.",
+   "math": "$20,000 and 200 transactions",
+   "links": "[]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-08-25 02:14:57"
+  }
+ ],
+ "proposals": [
+  {
+   "id": 3,
+   "date": "2026-08-25",
+   "stack": "AI automation agency for local SMBs",
+   "math": "Stack: n8n/Make + ChatGPT + outreach. Video numbers (z_Ib7A0-0R4): tools ~$140/mo (Google Flow $120 + ChatGPT $20), next-to-zero startup, recurring monthly clients; best beginner model per video. Meta-check (ymyir9dXjd8): services/automation = where real money is vs course funnels. Math: 2 clients x $500/mo retainer = $1,000/mo - $140 tools = $860/mo net. Needs sales skills; flag: source had 'made millions' bravado (uz_3dSU8rQo redflag).",
+   "status": "proposed",
+   "created_at": "2026-08-25 02:16:59"
+  },
+  {
+   "id": 2,
+   "date": "2026-08-25",
+   "stack": "Creator clipping service + own channels",
+   "math": "Stack: yt-dlp + digest + existing channel trio (YT Shorts/TikTok/IG @bestclips3298) + ramp_part2 pipeline. Startup $20-40/mo AI subs (ytAW1_g2IfI). Profit math: own channels 100k views/mo / 1000 x $0.60 Whop = $60/mo, or x $3.00 Content Rewards = $300/mo (5x). Service side: 3 creator clients x $150/mo = $450/mo. Total $360-750/mo at 100k views - real rates, no fabricated views.",
+   "status": "proposed",
+   "created_at": "2026-08-25 02:16:59"
+  },
+  {
+   "id": 1,
+   "date": "2026-08-25",
+   "stack": "Local lead-gen website service",
+   "math": "Stack: AI website builder (Horizons/other ~$30/mo) + local SEO + cold outreach to Westchester contractors. Video claim (unverified): $3,000/site for a 'smart website' that ranks on Google. Conservative math: 1 site/mo x $1,500 = $1,500/mo, plus $100-300/mo per-site maintenance retainers (ytAW1_g2IfI: charge per page, then monthly fee). Lead-gen formula: booked jobs x price. Reuses LeadSetter/contractor-site-tuneup assets.",
+   "status": "proposed",
+   "created_at": "2026-08-25 02:16:59"
+  }
+ ]
+}
