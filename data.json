@@ -1,12 +1,20 @@
 {
  "stats": {
-  "sources": 13,
-  "facts": 6,
-  "proposals": 3,
-  "updated": "2026-08-25",
-  "redflags": 1
+  "sources": 14,
+  "facts": 12,
+  "proposals": 6,
+  "updated": "2026-08-26",
+  "redflags": 2
  },
  "sources": [
+  {
+   "id": "LiUwbBBAogE",
+   "url": "https://www.youtube.com/watch?v=LiUwbBBAogE",
+   "title": "10 Easiest AI Side Hustle Make Actual Money Online \u2014 What Changed After Age 65",
+   "channel": "Five Free Tools",
+   "platform": "youtube",
+   "scraped_at": "2026-08-26 02:35:21"
+  },
   {
    "id": "j-Y2PbG7b1k",
    "url": "https://www.youtube.com/watch?v=j-Y2PbG7b1k",
@@ -114,6 +122,66 @@
  ],
  "facts": [
   {
+   "id": 12,
+   "source_id": "digest",
+   "category": "redflag",
+   "content": "Warning against course funnels and creators making money by selling access or communities rather than the actual claimed business model.",
+   "math": "",
+   "links": "[]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-08-26 02:35:24"
+  },
+  {
+   "id": 11,
+   "source_id": "digest",
+   "category": "site",
+   "content": "Shopify offers a 3-day free trial and AutoDS integration costs 99 cents to start.",
+   "math": "3-day trial, $0.99 start",
+   "links": "[]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-08-26 02:35:24"
+  },
+  {
+   "id": 10,
+   "source_id": "digest",
+   "category": "method",
+   "content": "Hobby rule triggered by IRS if a side hustle shows a loss in three out of five consecutive years.",
+   "math": "3 out of 5 years",
+   "links": "[]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-08-26 02:35:24"
+  },
+  {
+   "id": 9,
+   "source_id": "digest",
+   "category": "math",
+   "content": "Startup capital for basic AI tool stack is approximately $20 to $40 a month.",
+   "math": "$20 to $40/month",
+   "links": "[]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-08-26 02:35:24"
+  },
+  {
+   "id": 8,
+   "source_id": "digest",
+   "category": "math",
+   "content": "Payment apps have a reporting threshold of $20,000 and 200 transactions.",
+   "math": "$20000 and 200 transactions",
+   "links": "[]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-08-26 02:35:24"
+  },
+  {
+   "id": 7,
+   "source_id": "digest",
+   "category": "math",
+   "content": "IRS error rate jumps to 55% for side hustlers and sole proprietors compared to 1% for W-2 employees.",
+   "math": "55% error rate for side hustlers vs 1% for W-2",
+   "links": "[]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-08-26 02:35:24"
+  },
+  {
    "id": 6,
    "source_id": "digest",
    "category": "math",
@@ -175,6 +243,30 @@
   }
  ],
  "proposals": [
+  {
+   "id": 6,
+   "date": "2026-08-26",
+   "stack": "AI niche-app subscription | Stack: Hostinger Horizons AI app builder (xYsafbVLJG4) -> single-purpose tool app -> monetize via subscription OR pay-per-use; ChatGPT for idea/feature spec. Distinct from local-site service (yesterday): product income, not service income.",
+   "math": "Cost: ~$20-40/mo tools (ytAW1_g2IfI). Revenue: UNKNOWN - video gives no user numbers. Honest break-even: 6-10 paying users x $5/mo = $30-50/mo at ~$30/mo cost. Distribution is the bottleneck; treat as capped-cost experiment, not income.",
+   "status": "proposed",
+   "created_at": "2026-08-26 02:36:50"
+  },
+  {
+   "id": 5,
+   "date": "2026-08-26",
+   "stack": "Fiverr AI digital-product gigs | Stack: ChatGPT + Canva -> resume templates, greeting cards, pet-portrait prompts, social captions (LiUwbBBAogE). Zero tech skills, $0 startup, fits existing sites as service.",
+   "math": "Video claim (unverified): $300 first sale (resume templates). Conservative: 2-4 gigs/mo x $25-50 = $50-200/mo, scaling only with reviews. Flag: source plugs chaseswift.com affiliate tool (redflag); ramp is gated on Fiverr reviews (slow).",
+   "status": "proposed",
+   "created_at": "2026-08-26 02:36:50"
+  },
+  {
+   "id": 4,
+   "date": "2026-08-26",
+   "stack": "Etsy AI print-on-demand | Stack: free AI image models (Google AI Studio/nano-banana, per 8NvhbfZNTrc) -> niche shirt designs -> Etsy POD (no inventory) + AI chatbot listing copy. Startup: $0.99 AutoDS trial option; otherwise just Etsy listing fees.",
+   "math": "Video claim (unverified): $20/sale gross minus Etsy processing. Conservative: 30 sales/mo x $12 net = $360/mo (~1 sale/day, no ad spend). Reality-check (ymyir9dXjd8): POD is a real business but ads/product costs eat most of a $100k-revenue store. Flags: source sells \"Ecom Clubhouse\" course (redflag funnel).",
+   "status": "proposed",
+   "created_at": "2026-08-26 02:36:50"
+  },
   {
    "id": 3,
    "date": "2026-08-25",
