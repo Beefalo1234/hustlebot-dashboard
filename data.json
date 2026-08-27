@@ -1,12 +1,20 @@
 {
  "stats": {
-  "sources": 14,
-  "facts": 12,
-  "proposals": 6,
-  "updated": "2026-08-26",
-  "redflags": 2
+  "sources": 15,
+  "facts": 15,
+  "proposals": 9,
+  "updated": "2026-08-27",
+  "redflags": 4
  },
  "sources": [
+  {
+   "id": "LjldTBelvWo",
+   "url": "https://www.youtube.com/watch?v=LjldTBelvWo",
+   "title": "7 Best Claude AI Side Hustles For People Starting Over",
+   "channel": "Shane Hummus",
+   "platform": "youtube",
+   "scraped_at": "2026-08-27 02:19:51"
+  },
   {
    "id": "LiUwbBBAogE",
    "url": "https://www.youtube.com/watch?v=LiUwbBBAogE",
@@ -121,6 +129,36 @@
   }
  ],
  "facts": [
+  {
+   "id": 15,
+   "source_id": "digest",
+   "category": "redflag",
+   "content": "Investigation of 100 viral 'I make $10K/month with AI' claims found that only 12 held up upon checking proof and profit.",
+   "math": "100 claims tested, 12 valid",
+   "links": "[\"https://aitools.s.gy/nMSKo3\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-08-27 02:19:59"
+  },
+  {
+   "id": 14,
+   "source_id": "digest",
+   "category": "method",
+   "content": "Building an app in 5 days using AI tools like Base44, implementing Stripe payments without code, and publishing with a custom domain.",
+   "math": "5 days",
+   "links": "[\"https://mikeyno-code.com/Skool-base44\", \"https://mikeyno-code.com/video183\", \"https://mikeyappchecklist.netlify.app/\"]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-08-27 02:19:59"
+  },
+  {
+   "id": 13,
+   "source_id": "digest",
+   "category": "math",
+   "content": "Claimed revenue range for selling AI websites to local businesses using AI website builders.",
+   "math": "$2,000\u2013$5,000 per client",
+   "links": "[\"https://thesavvycouple.com/highlevel/\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-08-27 02:19:59"
+  },
   {
    "id": 12,
    "source_id": "digest",
@@ -243,6 +281,30 @@
   }
  ],
  "proposals": [
+  {
+   "id": 9,
+   "date": "2026-08-27",
+   "stack": "AI-income-claim audit niche: videos debunking viral 'I make $10K/mo with AI' claims (source investigation: 12 of 100 held up) - trust-positioned content, low supply",
+   "math": "100K views x $3.00/1000 (CR) = $300 or x $0.60 (Whop) = $60 per video (modeled); strong watch-time/comment engagement niche",
+   "status": "proposed",
+   "created_at": "2026-08-27 02:20:50"
+  },
+  {
+   "id": 8,
+   "date": "2026-08-27",
+   "stack": "Local-business AI website stack: AI site builder + CRM (source cites HighLevel), sold to local businesses - REDFLAG: source is affiliate funnel, $2k-5k/client claim unverified",
+   "math": "2 clients/mo x $2,000 = $4,000/mo gross (unverified claim - verify before chasing); lead-gen angle: booked jobs x price",
+   "status": "proposed",
+   "created_at": "2026-08-27 02:20:50"
+  },
+  {
+   "id": 7,
+   "date": "2026-08-27",
+   "stack": "No-code AI app stack: AI app builder (Base44-class) + Stripe no-code + custom domain, ship paid web app in ~5 days (salvaged method, greenflag)",
+   "math": "White-label: 4 clients x $50/mo = $200/mo; direct SaaS: 100 subs x $19/mo = $1,900/mo (modeled, not earned); build-in-public clipping: 100K views x $3.00/1000 (CR) = $300 or x $0.60 (Whop) = $60",
+   "status": "proposed",
+   "created_at": "2026-08-27 02:20:50"
+  },
   {
    "id": 6,
    "date": "2026-08-26",
