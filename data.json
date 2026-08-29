@@ -2,8 +2,8 @@
  "stats": {
   "sources": 15,
   "facts": 15,
-  "proposals": 9,
-  "updated": "2026-08-27",
+  "proposals": 11,
+  "updated": "2026-08-29",
   "redflags": 4
  },
  "sources": [
@@ -281,6 +281,22 @@
   }
  ],
  "proposals": [
+  {
+   "id": 11,
+   "date": "2026-08-29",
+   "stack": "Automated Content Clipping Pipeline (Whop / Content Rewards) | Stack: yt-dlp + ffmpeg vertical clips + ramp_post.py + multi-platform syndication (TikTok/IG/YT Shorts).",
+   "math": "100K views/mo x .00/1000 (Content Rewards) = 00/mo or x /usr/bin/bash.60/1000 (Whop) = 0/mo per channel across 3 platforms.",
+   "status": "proposed",
+   "created_at": "2026-08-29 02:03:19"
+  },
+  {
+   "id": 10,
+   "date": "2026-08-29",
+   "stack": "AI Micro-SaaS & Boilerplate Reselling | Stack: Next.js starter kit + Tailwind + Stripe checkout + AI API integration. Direct B2B outreach to local businesses.",
+   "math": "5 client setups @ 00/mo retainer or 20 SaaS subs @ 9/mo = 80-,500/mo. Zero ad spend.",
+   "status": "proposed",
+   "created_at": "2026-08-29 02:03:19"
+  },
   {
    "id": 9,
    "date": "2026-08-27",
