@@ -2,8 +2,8 @@
  "stats": {
   "sources": 15,
   "facts": 15,
-  "proposals": 11,
-  "updated": "2026-08-29",
+  "proposals": 14,
+  "updated": "2026-08-30",
   "redflags": 4
  },
  "sources": [
@@ -281,6 +281,30 @@
   }
  ],
  "proposals": [
+  {
+   "id": 14,
+   "date": "2026-08-30",
+   "stack": "AI White-Label Subscriptions (Dashboard-Bot / Hustlebot)",
+   "math": "10 active clients \u00d7 0/mo = 00/mo",
+   "status": "proposed",
+   "created_at": "2026-08-30 02:03:00"
+  },
+  {
+   "id": 13,
+   "date": "2026-08-30",
+   "stack": "Pressure Washing Local Lead-Gen (Water Boys)",
+   "math": "15 booked jobs/mo \u00d7 00 avg ticket = ,000/mo",
+   "status": "proposed",
+   "created_at": "2026-08-30 02:03:00"
+  },
+  {
+   "id": 12,
+   "date": "2026-08-30",
+   "stack": "YT/IG Clipping Pipeline (Whop & Content Rewards)",
+   "math": "50,000 views/day \u00d7 (30 days / 1,000) \u00d7 .00 (CR rate) = ,500/mo",
+   "status": "proposed",
+   "created_at": "2026-08-30 02:03:00"
+  },
   {
    "id": 11,
    "date": "2026-08-29",
