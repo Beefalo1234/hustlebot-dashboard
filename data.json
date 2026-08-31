@@ -2,8 +2,8 @@
  "stats": {
   "sources": 15,
   "facts": 15,
-  "proposals": 14,
-  "updated": "2026-08-30",
+  "proposals": 16,
+  "updated": "2026-08-31",
   "redflags": 4
  },
  "sources": [
@@ -281,6 +281,22 @@
   }
  ],
  "proposals": [
+  {
+   "id": 16,
+   "date": "2026-08-31",
+   "stack": "Short-Form Clipping Pipeline (yt-scraper + Content Rewards)",
+   "math": "10,000 views / 1,000 x .00 (CR rate) = 0.00 / 10k views; scaling to 1M views = ,000/mo",
+   "status": "proposed",
+   "created_at": "2026-08-31 02:03:12"
+  },
+  {
+   "id": 15,
+   "date": "2026-08-31",
+   "stack": "AI Website Builder + Local Lead Gen (Wix/WordPress AI + Cold Email)",
+   "math": "50k views / mo x 2% conversion = 1,000 site visits; 5 booked clients @ 00/mo = ,500/mo",
+   "status": "proposed",
+   "created_at": "2026-08-31 02:03:12"
+  },
   {
    "id": 14,
    "date": "2026-08-30",
