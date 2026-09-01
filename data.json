@@ -2,8 +2,8 @@
  "stats": {
   "sources": 15,
   "facts": 15,
-  "proposals": 16,
-  "updated": "2026-08-31",
+  "proposals": 17,
+  "updated": "2026-09-01",
   "redflags": 4
  },
  "sources": [
@@ -281,6 +281,14 @@
   }
  ],
  "proposals": [
+  {
+   "id": 17,
+   "date": "2026-09-01",
+   "stack": "AI Video Shorts Pipeline + Content Rewards & Whop Affiliate",
+   "math": "300k views/mo: Content Rewards (.00/1k) = 00/mo + Whop affiliate (,000/mo) = ,900/mo total projected revenue.",
+   "status": "proposed",
+   "created_at": "2026-09-01 19:28:45"
+  },
   {
    "id": 16,
    "date": "2026-08-31",
