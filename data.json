@@ -1,12 +1,60 @@
 {
  "stats": {
-  "sources": 15,
-  "facts": 15,
-  "proposals": 17,
-  "updated": "2026-09-01",
-  "redflags": 4
+  "sources": 21,
+  "facts": 20,
+  "proposals": 20,
+  "updated": "2026-09-03",
+  "redflags": 5
  },
  "sources": [
+  {
+   "id": "_oUkV27C32w",
+   "url": "https://www.youtube.com/watch?v=_oUkV27C32w",
+   "title": "Red Flags The IRS is Looking For in 2026 (NEW AI Audit System) | Taxes for Business Owners",
+   "channel": "Tiffany Phillips, CPA",
+   "platform": "youtube",
+   "scraped_at": "2026-09-03 02:02:15"
+  },
+  {
+   "id": "vptFiJtwszE",
+   "url": "https://www.youtube.com/watch?v=vptFiJtwszE",
+   "title": "The Skills That Make Money in the AI Economy \u2014 5-Minute Recap",
+   "channel": "Markluce AI",
+   "platform": "youtube",
+   "scraped_at": "2026-09-03 02:02:10"
+  },
+  {
+   "id": "KRHv3DCJgKw",
+   "url": "https://www.youtube.com/watch?v=KRHv3DCJgKw",
+   "title": "MAKE MONEY ON YT WITH AI in 5 MINUTES!",
+   "channel": "Simple Gains",
+   "platform": "youtube",
+   "scraped_at": "2026-09-03 02:02:07"
+  },
+  {
+   "id": "wY3egFhsVYI",
+   "url": "https://www.youtube.com/watch?v=wY3egFhsVYI",
+   "title": "How I Made $2,000 From AI Songs I Created in 5 Minutes (Test Tool FREE, No Talent)",
+   "channel": "Odetta Rockhead",
+   "platform": "youtube",
+   "scraped_at": "2026-09-02 02:04:48"
+  },
+  {
+   "id": "qsUksdDNbv0",
+   "url": "https://www.youtube.com/watch?v=qsUksdDNbv0",
+   "title": "Type This Into Claude To Make $1,000 This Weekend",
+   "channel": "Patrick Dang",
+   "platform": "youtube",
+   "scraped_at": "2026-09-02 02:04:43"
+  },
+  {
+   "id": "C4notB80sjA",
+   "url": "https://www.youtube.com/watch?v=C4notB80sjA",
+   "title": "I Quit Delivery Apps \u2014 These Side Hustle Apps Pay Better in 2026",
+   "channel": "Gigsberg",
+   "platform": "youtube",
+   "scraped_at": "2026-09-02 02:04:42"
+  },
   {
    "id": "LjldTBelvWo",
    "url": "https://www.youtube.com/watch?v=LjldTBelvWo",
@@ -129,6 +177,56 @@
   }
  ],
  "facts": [
+  {
+   "id": 20,
+   "source_id": "digest",
+   "category": "math",
+   "content": "Example tool stack costs for AI-assisted video creation include Google Flow at approximately $120/month and ChatGPT up to $20/month.",
+   "math": "Google Flow: $120/mo, ChatGPT: $20/mo",
+   "links": "[]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-03 02:02:18"
+  },
+  {
+   "id": 19,
+   "source_id": "digest",
+   "category": "site",
+   "content": "Top blog discovery and competitive analysis can be performed using SEO tools like SEMrush or Ubersuggest to analyze niche traffic and affiliate/CPM opportunities.",
+   "math": "",
+   "links": "[]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-03 02:02:18"
+  },
+  {
+   "id": 18,
+   "source_id": "digest",
+   "category": "redflag",
+   "content": "The IRS hobby loss rule can be triggered if a side hustle shows a net loss in 3 out of 5 consecutive years.",
+   "math": "3 out of 5 consecutive years",
+   "links": "[]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-03 02:02:18"
+  },
+  {
+   "id": 17,
+   "source_id": "digest",
+   "category": "method",
+   "content": "Payment apps and processors operate under a threshold where reporting forms like 1099-K are triggered at $20,000 and 200 transactions.",
+   "math": "$20,000 threshold, 200 transactions",
+   "links": "[]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-03 02:02:18"
+  },
+  {
+   "id": 16,
+   "source_id": "digest",
+   "category": "math",
+   "content": "Tax error rates differ significantly between groups: W-2 employees misreport at a 1% rate, while side hustlers and sole proprietors jump to a 55% error rate.",
+   "math": "W-2: 1%, Side hustlers: 55%",
+   "links": "[]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-03 02:02:18"
+  },
   {
    "id": 15,
    "source_id": "digest",
@@ -281,6 +379,30 @@
   }
  ],
  "proposals": [
+  {
+   "id": 20,
+   "date": "2026-09-03",
+   "stack": "AI Short-Form Clip Engine (yt-scraper + Content Rewards)",
+   "math": "10k views / 1000 \u00d7 .00 = 0.00 / 10k views",
+   "status": "proposed",
+   "created_at": "2026-09-03 02:02:49"
+  },
+  {
+   "id": 19,
+   "date": "2026-09-02",
+   "stack": "AI Micro-SaaS App Builder",
+   "math": "20k views \u00f7 1000 \u00d7 /usr/bin/bash.60 = 2/mo affiliate + 2 booked jobs \u00d7 50 = 12/mo total",
+   "status": "proposed",
+   "created_at": "2026-09-02 02:05:03"
+  },
+  {
+   "id": 18,
+   "date": "2026-09-02",
+   "stack": "AI Website Agency + LeadSetter AI",
+   "math": "50k views \u00f7 1000 \u00d7 .00 = 50/mo ad rev + 3 clients \u00d7 0/mo = 00/mo total",
+   "status": "proposed",
+   "created_at": "2026-09-02 02:05:03"
+  },
   {
    "id": 17,
    "date": "2026-09-01",
