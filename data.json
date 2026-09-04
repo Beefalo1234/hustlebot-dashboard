@@ -2,8 +2,8 @@
  "stats": {
   "sources": 21,
   "facts": 20,
-  "proposals": 20,
-  "updated": "2026-09-03",
+  "proposals": 22,
+  "updated": "2026-09-04",
   "redflags": 5
  },
  "sources": [
@@ -379,6 +379,22 @@
   }
  ],
  "proposals": [
+  {
+   "id": 22,
+   "date": "2026-09-04",
+   "stack": "Content Rewards AI Discovery Tool Stack",
+   "math": "20,000 views / 1000 \u00d7 .00 = 0.00 est. daily",
+   "status": "proposed",
+   "created_at": "2026-09-04 02:02:06"
+  },
+  {
+   "id": 21,
+   "date": "2026-09-04",
+   "stack": "YT Shorts + Whop Offer Stacks",
+   "math": "50,000 views / 1000 \u00d7 /usr/bin/bash.60 = 0.00 est. daily",
+   "status": "proposed",
+   "created_at": "2026-09-04 02:02:06"
+  },
   {
    "id": 20,
    "date": "2026-09-03",
