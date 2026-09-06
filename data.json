@@ -1,12 +1,28 @@
 {
  "stats": {
-  "sources": 24,
-  "facts": 20,
-  "proposals": 22,
+  "sources": 26,
+  "facts": 28,
+  "proposals": 24,
   "updated": "2026-09-06",
-  "redflags": 5
+  "redflags": 8
  },
  "sources": [
+  {
+   "id": "0qrysp7iZ2E",
+   "url": "https://www.youtube.com/watch?v=0qrysp7iZ2E",
+   "title": "3D Animation in Just 5 Minutes! - Make Money With Ai [Earn $1000+]",
+   "channel": "Facts Fictions",
+   "platform": "youtube",
+   "scraped_at": "2026-09-06 18:30:46"
+  },
+  {
+   "id": "7oM-Nfl8CtQ",
+   "url": "https://www.youtube.com/watch?v=7oM-Nfl8CtQ",
+   "title": "5 Best Remote Side Hustles to Make Money From Home in 2026",
+   "channel": "The Savvy Couple - Kelan & Brittany ",
+   "platform": "youtube",
+   "scraped_at": "2026-09-06 18:30:43"
+  },
   {
    "id": "jkjk1EFM-tE",
    "url": "https://www.youtube.com/watch?v=jkjk1EFM-tE",
@@ -201,6 +217,86 @@
   }
  ],
  "facts": [
+  {
+   "id": 28,
+   "source_id": "3aeAy3Qs2UA",
+   "category": "math",
+   "content": "Local lead-gen website service: one client paid $3,000 for a smart website that ranks higher on Google. (Video is a course funnel.)",
+   "math": "$3,000/client",
+   "links": "[]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-06 18:32:49"
+  },
+  {
+   "id": 27,
+   "source_id": "ymyir9dXjd8",
+   "category": "redflag",
+   "content": "Most 'AI side hustle' gurus earn from selling the method (course/community/affiliate), not from doing the method itself.",
+   "math": "",
+   "links": "[]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-06 18:32:49"
+  },
+  {
+   "id": 26,
+   "source_id": "ymyir9dXjd8",
+   "category": "redflag",
+   "content": "A Shopify store can do $100,000 in sales and still barely profit after ads, product cost, returns, software, and shipping.",
+   "math": "",
+   "links": "[]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-06 18:32:49"
+  },
+  {
+   "id": 25,
+   "source_id": "ntpzN_XlDXw",
+   "category": "method",
+   "content": "IRS hobby rule: a side hustle showing a loss 3 of 5 consecutive years is reclassified as a hobby and deductions get disallowed.",
+   "math": "3 of 5 years",
+   "links": "[]",
+   "flags": "[]",
+   "created_at": "2026-09-06 18:32:49"
+  },
+  {
+   "id": 24,
+   "source_id": "ntpzN_XlDXw",
+   "category": "method",
+   "content": "IRS (2026) 1099-K threshold: payment apps report at $20,000 AND 200 transactions; staying under the limit does not make income invisible.",
+   "math": "$20,000 / 200 txns",
+   "links": "[]",
+   "flags": "[]",
+   "created_at": "2026-09-06 18:32:49"
+  },
+  {
+   "id": 23,
+   "source_id": "jkjk1EFM-tE",
+   "category": "math",
+   "content": "Amazon Associates affiliate commission is 1-10% depending on product category.",
+   "math": "1-10% commission",
+   "links": "[]",
+   "flags": "[]",
+   "created_at": "2026-09-06 18:32:49"
+  },
+  {
+   "id": 22,
+   "source_id": "z_Ib7A0-0R4",
+   "category": "math",
+   "content": "AI video-creation service tool costs: Google Flow ~$120/mo plus ChatGPT ~$20/mo.",
+   "math": "$120-$140/mo tools",
+   "links": "[]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-06 18:32:49"
+  },
+  {
+   "id": 21,
+   "source_id": "7oM-Nfl8CtQ",
+   "category": "math",
+   "content": "Freelance bookkeeping retainer pricing: $300-$500 per client per month, doable remotely in off-hours.",
+   "math": "$300-$500/client/mo",
+   "links": "[]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-06 18:32:49"
+  },
   {
    "id": 20,
    "source_id": "digest",
@@ -403,6 +499,22 @@
   }
  ],
  "proposals": [
+  {
+   "id": 24,
+   "date": "2026-09-06",
+   "stack": "Side-hustle tax-compliance content (faceless finance)",
+   "math": "Stack: research IRS 2026 changes (AI enforcement, $20k/200-txn 1099-K threshold, 3-of-5-yr hobby rule) -> faceless finance shorts/longform -> AdSense + tax-software affiliate. 100k views/mo x $3.00 (Content Rewards) = $300/mo; finance niche CPM typically higher. Timely 2026 angle, evergreen after.",
+   "status": "proposed",
+   "created_at": "2026-09-06 18:32:49"
+  },
+  {
+   "id": 23,
+   "date": "2026-09-06",
+   "stack": "Freelance AI-assisted bookkeeping retainers",
+   "math": "Stack: ChatGPT (categorize/cleanup) + free accounting tool -> monthly bookkeeping retainers for local SMBs. 5 clients x $400/mo = $2,000/mo (source-cited $300-$500/client/mo); 10 clients = $4,000/mo. Numbers source-cited (unverified); no tool lock-in.",
+   "status": "proposed",
+   "created_at": "2026-09-06 18:32:49"
+  },
   {
    "id": 22,
    "date": "2026-09-04",
