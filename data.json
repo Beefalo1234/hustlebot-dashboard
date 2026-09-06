@@ -1,12 +1,36 @@
 {
  "stats": {
-  "sources": 21,
+  "sources": 24,
   "facts": 20,
   "proposals": 22,
-  "updated": "2026-09-04",
+  "updated": "2026-09-06",
   "redflags": 5
  },
  "sources": [
+  {
+   "id": "jkjk1EFM-tE",
+   "url": "https://www.youtube.com/watch?v=jkjk1EFM-tE",
+   "title": "How to Make Money with DeepSeek - Best Side Hustle for Beginners!",
+   "channel": "Charlie Chang",
+   "platform": "youtube",
+   "scraped_at": "2026-09-05 02:01:27"
+  },
+  {
+   "id": "7YJtacrq1NU",
+   "url": "https://www.youtube.com/watch?v=7YJtacrq1NU",
+   "title": "Easiest FREE Way To Make Money With Claude AI (Within 24 hours)",
+   "channel": "Mr Reis",
+   "platform": "youtube",
+   "scraped_at": "2026-09-05 02:01:25"
+  },
+  {
+   "id": "qSqq5I1WtCA",
+   "url": "https://www.youtube.com/watch?v=qSqq5I1WtCA",
+   "title": "5 Genius Ways to Make Money From Home (Using AI)",
+   "channel": "Charlie Chang",
+   "platform": "youtube",
+   "scraped_at": "2026-09-05 02:01:23"
+  },
   {
    "id": "_oUkV27C32w",
    "url": "https://www.youtube.com/watch?v=_oUkV27C32w",
@@ -383,7 +407,7 @@
    "id": 22,
    "date": "2026-09-04",
    "stack": "Content Rewards AI Discovery Tool Stack",
-   "math": "20,000 views / 1000 \u00d7 .00 = 0.00 est. daily",
+   "math": "20,000 views / 1000 \u00d7 $3.00 = $60.00 est. daily",
    "status": "proposed",
    "created_at": "2026-09-04 02:02:06"
   },
@@ -391,7 +415,7 @@
    "id": 21,
    "date": "2026-09-04",
    "stack": "YT Shorts + Whop Offer Stacks",
-   "math": "50,000 views / 1000 \u00d7 /usr/bin/bash.60 = 0.00 est. daily",
+   "math": "50,000 views / 1000 \u00d7 $0.60 = 0.00 est. daily",
    "status": "proposed",
    "created_at": "2026-09-04 02:02:06"
   },
@@ -399,7 +423,7 @@
    "id": 20,
    "date": "2026-09-03",
    "stack": "AI Short-Form Clip Engine (yt-scraper + Content Rewards)",
-   "math": "10k views / 1000 \u00d7 .00 = 0.00 / 10k views",
+   "math": "10k views / 1000 \u00d7 $3.00 = $30.00 / 10k views",
    "status": "proposed",
    "created_at": "2026-09-03 02:02:49"
   },
@@ -407,7 +431,7 @@
    "id": 19,
    "date": "2026-09-02",
    "stack": "AI Micro-SaaS App Builder",
-   "math": "20k views \u00f7 1000 \u00d7 /usr/bin/bash.60 = 2/mo affiliate + 2 booked jobs \u00d7 50 = 12/mo total",
+   "math": "20k views \u00f7 1000 \u00d7 $0.60 = 2/mo affiliate + 2 booked jobs \u00d7 50 = 12/mo total",
    "status": "proposed",
    "created_at": "2026-09-02 02:05:03"
   },
@@ -423,7 +447,7 @@
    "id": 17,
    "date": "2026-09-01",
    "stack": "AI Video Shorts Pipeline + Content Rewards & Whop Affiliate",
-   "math": "300k views/mo: Content Rewards (.00/1k) = 00/mo + Whop affiliate (,000/mo) = ,900/mo total projected revenue.",
+   "math": "300k views/mo: Content Rewards ($3.00/1k) = 00/mo + Whop affiliate (,000/mo) = ,900/mo total projected revenue.",
    "status": "proposed",
    "created_at": "2026-09-01 19:28:45"
   },
@@ -431,7 +455,7 @@
    "id": 16,
    "date": "2026-08-31",
    "stack": "Short-Form Clipping Pipeline (yt-scraper + Content Rewards)",
-   "math": "10,000 views / 1,000 x .00 (CR rate) = 0.00 / 10k views; scaling to 1M views = ,000/mo",
+   "math": "10,000 views / 1,000 x $3.00 (CR rate) = 0.00 / 10k views; scaling to 1M views = ,000/mo",
    "status": "proposed",
    "created_at": "2026-08-31 02:03:12"
   },
@@ -463,7 +487,7 @@
    "id": 12,
    "date": "2026-08-30",
    "stack": "YT/IG Clipping Pipeline (Whop & Content Rewards)",
-   "math": "50,000 views/day \u00d7 (30 days / 1,000) \u00d7 .00 (CR rate) = ,500/mo",
+   "math": "50,000 views/day \u00d7 (30 days / 1,000) \u00d7 $3.00 (CR rate) = ,500/mo",
    "status": "proposed",
    "created_at": "2026-08-30 02:03:00"
   },
@@ -471,7 +495,7 @@
    "id": 11,
    "date": "2026-08-29",
    "stack": "Automated Content Clipping Pipeline (Whop / Content Rewards) | Stack: yt-dlp + ffmpeg vertical clips + ramp_post.py + multi-platform syndication (TikTok/IG/YT Shorts).",
-   "math": "100K views/mo x .00/1000 (Content Rewards) = 00/mo or x /usr/bin/bash.60/1000 (Whop) = 0/mo per channel across 3 platforms.",
+   "math": "100K views/mo x $3.00/1000 (Content Rewards) = 00/mo or x $0.60/1000 (Whop) = 0/mo per channel across 3 platforms.",
    "status": "proposed",
    "created_at": "2026-08-29 02:03:19"
   },
