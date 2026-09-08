@@ -1,10 +1,10 @@
 {
  "stats": {
   "sources": 29,
-  "facts": 28,
-  "proposals": 24,
+  "facts": 48,
+  "proposals": 26,
   "updated": "2026-09-07",
-  "redflags": 8
+  "redflags": 11
  },
  "sources": [
   {
@@ -241,6 +241,206 @@
   }
  ],
  "facts": [
+  {
+   "id": 48,
+   "source_id": "KRHv3DCJgKw",
+   "category": "redflag",
+   "content": "Generic faceless YouTube automation: 'lock the door' misleading-content tactic; crowded commodity, monetize via ad/affiliate/digital products.",
+   "math": "",
+   "links": "[]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-07 20:52:07"
+  },
+  {
+   "id": 47,
+   "source_id": "ytAW1_g2IfI",
+   "category": "idea",
+   "content": "AI influencer in a niche -> sponsorship + affiliate income (sell products or create an AI persona).",
+   "math": "",
+   "links": "[]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-07 20:52:07"
+  },
+  {
+   "id": 46,
+   "source_id": "ytAW1_g2IfI",
+   "category": "method",
+   "content": "Charge clients per page to start, then offer monthly optimization retainers; AutoDS 99 cents start, Shopify 3-day trial.",
+   "math": "AutoDS $0.99; Shopify 3-day trial",
+   "links": "[]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-07 20:52:07"
+  },
+  {
+   "id": 45,
+   "source_id": "ytAW1_g2IfI",
+   "category": "math",
+   "content": "Creator clipping service: startup capital $20-40/mo in AI subs (tool stack of 3); creators earn more from clip exposure than they pay out.",
+   "math": "$20-40/mo startup",
+   "links": "[]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-07 20:52:07"
+  },
+  {
+   "id": 44,
+   "source_id": "ymyir9dXjd8",
+   "category": "math",
+   "content": "Shopify store can hit $100k sales yet net ~nothing after ads/product/returns/software/transaction fees/shipping.",
+   "math": "$100k gross != profit (claimed)",
+   "links": "[]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-07 20:52:07"
+  },
+  {
+   "id": 43,
+   "source_id": "ymyir9dXjd8",
+   "category": "idea",
+   "content": "Sell-the-method test: if revenue comes from a course/community/affiliate funnel, they're selling the method, not doing the service.",
+   "math": "",
+   "links": "[]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-07 20:52:07"
+  },
+  {
+   "id": 42,
+   "source_id": "vptFiJtwszE",
+   "category": "idea",
+   "content": "High-income skill moat: a steep learning curve (not one-weekend skills) protects income; an AI-assisted closer does a whole team's work.",
+   "math": "",
+   "links": "[]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-07 20:52:07"
+  },
+  {
+   "id": 41,
+   "source_id": "uz_3dSU8rQo",
+   "category": "method",
+   "content": "Content-site niche monetization: find top-10 blogs per niche (SEMrush/Ubersuggest), monetize via affiliates/brand deals/top CPMs.",
+   "math": "high end $200-500/day (claimed)",
+   "links": "[]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-07 20:52:07"
+  },
+  {
+   "id": 40,
+   "source_id": "qSqq5I1WtCA",
+   "category": "math",
+   "content": "AI automation agency: ~10 clients on a monthly retainer (transcript number garbled; ~$500/mo each is unverified).",
+   "math": "unknown exact; ~$500/mo retainer (unverified)",
+   "links": "[]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-07 20:52:07"
+  },
+  {
+   "id": 39,
+   "source_id": "q1g65sjQI-4",
+   "category": "redflag",
+   "content": "'Make money with AI by selling AI' or 'let the bot trade for you' = flooded copy-paste BS; clients compare on price only.",
+   "math": "",
+   "links": "[]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-07 20:52:07"
+  },
+  {
+   "id": 38,
+   "source_id": "q1g65sjQI-4",
+   "category": "method",
+   "content": "AI app building: use AI to build software faster by cutting coding time; scalable, no face/personal brand required.",
+   "math": "",
+   "links": "[]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-07 20:52:07"
+  },
+  {
+   "id": 37,
+   "source_id": "ntpzN_XlDXw",
+   "category": "method",
+   "content": "Hobby rule: side hustle showing a loss 3 of 5 consecutive years -> IRS reclassifies as hobby; keep separate business checking.",
+   "math": "",
+   "links": "[]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-07 20:52:07"
+  },
+  {
+   "id": 36,
+   "source_id": "ntpzN_XlDXw",
+   "category": "math",
+   "content": "IRS AI enforcement from 2026; payment-app 1099-K threshold $20,000 / 200 transactions; 55% side-hustler misreport rate vs 1% W-2.",
+   "math": "$20,000 & 200 txns; 55% vs 1%",
+   "links": "[]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-07 20:52:07"
+  },
+  {
+   "id": 35,
+   "source_id": "j-Y2PbG7b1k",
+   "category": "method",
+   "content": "Cash-app / app payments for products or services are still taxable income (myth: 'it's not income').",
+   "math": "",
+   "links": "[]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-07 20:52:07"
+  },
+  {
+   "id": 34,
+   "source_id": "j-Y2PbG7b1k",
+   "category": "math",
+   "content": "Side-hustle income is taxable even if small; example $2,200 side income triggers a 1099.",
+   "math": "$2,200 example",
+   "links": "[]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-07 20:52:07"
+  },
+  {
+   "id": 33,
+   "source_id": "H9MJKEo5eas",
+   "category": "idea",
+   "content": "Side-hustle validation gate: don't start until you can see others repeatedly making money with the same method/framework.",
+   "math": "",
+   "links": "[]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-07 20:52:07"
+  },
+  {
+   "id": 32,
+   "source_id": "_aGMxMmJJj4",
+   "category": "method",
+   "content": "Resell a done-for-you catalog of software tools white-label, no coding required.",
+   "math": "",
+   "links": "[]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-07 20:52:07"
+  },
+  {
+   "id": 31,
+   "source_id": "_aGMxMmJJj4",
+   "category": "math",
+   "content": "White-label SaaS reseller: charge $50/mo per customer; marginal cost $0/customer; 100 customers = $7,500/mo (~$100k/yr).",
+   "math": "100 x $50/mo = $7,500/mo (~$100k/yr, claimed)",
+   "links": "[]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-07 20:52:07"
+  },
+  {
+   "id": 30,
+   "source_id": "3aeAy3Qs2UA",
+   "category": "redflag",
+   "content": "Course funnel: 'comment free course below' -> DM's templates/scripts to sell the system.",
+   "math": "",
+   "links": "[]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-07 20:52:07"
+  },
+  {
+   "id": 29,
+   "source_id": "3aeAy3Qs2UA",
+   "category": "math",
+   "content": "Local-business lead-gen website: one client paid $3,000 for a website built to rank in Google and capture leads.",
+   "math": "$3,000 one-time per client (video claim)",
+   "links": "[]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-07 20:52:07"
+  },
   {
    "id": 28,
    "source_id": "3aeAy3Qs2UA",
@@ -523,6 +723,22 @@
   }
  ],
  "proposals": [
+  {
+   "id": 26,
+   "date": "2026-09-07",
+   "stack": "White-label SaaS reseller (done-for-you catalog)",
+   "math": "Stack: white-label software reseller platform -> sell to SMBs at $50/mo with ~$0 marginal cost. Math: 100 customers x $50/mo = $7,500/mo (~$100k/yr claimed; mark unverified). Distinct from building a starter kit: you resell an existing catalog, no coding. (source: _aGMxMmJJj4).",
+   "status": "proposed",
+   "created_at": "2026-09-07 20:52:07"
+  },
+  {
+   "id": 25,
+   "date": "2026-09-07",
+   "stack": "Side-hustle tax & bookkeeping niche (content + service)",
+   "math": "Stack: side-hustle tax/IRS content (short-form) + AI-assisted bookkeeping offer. Hooks are concrete: 55% side-hustler misreport rate vs 1% W-2, $20k/200-txn 1099-K threshold, hobby rule (loss 3/5 yrs). Content arm: views/1000 x rate (Whop ~$0.60 / CR ~$3.00). Service arm: e.g. 20 clients x $40/mo = $800/mo (source: j-Y2PbG7b1k, ntpzN_XlDXw).",
+   "status": "proposed",
+   "created_at": "2026-09-07 20:52:07"
+  },
   {
    "id": 24,
    "date": "2026-09-06",
