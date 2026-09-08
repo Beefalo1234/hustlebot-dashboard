@@ -1,12 +1,36 @@
 {
  "stats": {
-  "sources": 26,
+  "sources": 29,
   "facts": 28,
   "proposals": 24,
-  "updated": "2026-09-06",
+  "updated": "2026-09-07",
   "redflags": 8
  },
  "sources": [
+  {
+   "id": "H9MJKEo5eas",
+   "url": "https://www.youtube.com/watch?v=H9MJKEo5eas",
+   "title": "5 RED FLAGS When Picking A Passive Income Side Hustle",
+   "channel": "She's Off Script",
+   "platform": "youtube",
+   "scraped_at": "2026-09-07 20:49:36"
+  },
+  {
+   "id": "q1g65sjQI-4",
+   "url": "https://www.youtube.com/watch?v=q1g65sjQI-4",
+   "title": "The Best AI Side Hustles To Start In 2026 (No Skills)",
+   "channel": "Iman Gadzhi",
+   "platform": "youtube",
+   "scraped_at": "2026-09-07 20:49:18"
+  },
+  {
+   "id": "_aGMxMmJJj4",
+   "url": "https://www.youtube.com/watch?v=_aGMxMmJJj4",
+   "title": "No Money? Start This AI Website Side Hustle",
+   "channel": "Chris Koerner on The Koerner Office Podcast and The Koerner Office Highlights",
+   "platform": "youtube",
+   "scraped_at": "2026-09-07 20:49:13"
+  },
   {
    "id": "0qrysp7iZ2E",
    "url": "https://www.youtube.com/watch?v=0qrysp7iZ2E",
