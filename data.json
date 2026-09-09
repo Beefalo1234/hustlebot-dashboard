@@ -1,12 +1,36 @@
 {
  "stats": {
-  "sources": 29,
+  "sources": 32,
   "facts": 48,
   "proposals": 26,
-  "updated": "2026-09-07",
+  "updated": "2026-09-09",
   "redflags": 11
  },
  "sources": [
+  {
+   "id": "5TNh-n2jJvM",
+   "url": "https://www.youtube.com/watch?v=5TNh-n2jJvM",
+   "title": "Make Real Money Judging AI - 2026",
+   "channel": "Sara on AI",
+   "platform": "youtube",
+   "scraped_at": "2026-09-09 19:14:05"
+  },
+  {
+   "id": "77crr1FUS08",
+   "url": "https://www.youtube.com/watch?v=77crr1FUS08",
+   "title": "IRS Cracking Down on Side Hustle Income (Avoid These Mistakes!)",
+   "channel": "Sherman - My CPA Coach",
+   "platform": "youtube",
+   "scraped_at": "2026-09-09 19:14:03"
+  },
+  {
+   "id": "4Ney5B-Iuhw",
+   "url": "https://www.youtube.com/watch?v=4Ney5B-Iuhw",
+   "title": "8 Best Side Hustles To Make A LOT of Money in 2026",
+   "channel": "Charlie Chang",
+   "platform": "youtube",
+   "scraped_at": "2026-09-09 19:05:10"
+  },
   {
    "id": "H9MJKEo5eas",
    "url": "https://www.youtube.com/watch?v=H9MJKEo5eas",
