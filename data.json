@@ -1,12 +1,20 @@
 {
  "stats": {
-  "sources": 34,
-  "facts": 48,
+  "sources": 35,
+  "facts": 54,
   "proposals": 26,
-  "updated": "2026-09-10",
-  "redflags": 11
+  "updated": "2026-09-11",
+  "redflags": 15
  },
  "sources": [
+  {
+   "id": "ccs0g0Dz0XE",
+   "url": "https://www.youtube.com/watch?v=ccs0g0Dz0XE",
+   "title": "The Best AI Side Hustle Ideas NO ONE Is Talking About",
+   "channel": "Wholesale Ted",
+   "platform": "youtube",
+   "scraped_at": "2026-09-11 18:32:01"
+  },
   {
    "id": "pLs6ZKEDixQ",
    "url": "https://www.youtube.com/watch?v=pLs6ZKEDixQ",
@@ -281,6 +289,66 @@
   }
  ],
  "facts": [
+  {
+   "id": 54,
+   "source_id": "digest",
+   "category": "redflag",
+   "content": "Video promises 5 genius ways to make money from home using AI; no details.",
+   "math": "5 ways",
+   "links": "[\"https://www.youtube.com/watch?v=qSqq5I1WtCA\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-11 18:32:51"
+  },
+  {
+   "id": 53,
+   "source_id": "digest",
+   "category": "redflag",
+   "content": "Video promises laziest way to make money with AI from zero; no concrete method in metadata.",
+   "math": "",
+   "links": "[\"https://www.youtube.com/watch?v=uz_3dSU8rQo\", \"https://www.youtube.com/watch?v=ytAW1_g2IfI\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-11 18:32:51"
+  },
+  {
+   "id": 52,
+   "source_id": "digest",
+   "category": "method",
+   "content": "Track 100 'I make $10K/month with AI' claims to verify how many are real.",
+   "math": "100 claims, $10K/month",
+   "links": "[\"https://www.youtube.com/watch?v=ymyir9dXjd8\"]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-11 18:32:51"
+  },
+  {
+   "id": 51,
+   "source_id": "digest",
+   "category": "redflag",
+   "content": "Video promises making money on YouTube with AI in 5 minutes.",
+   "math": "5 minutes",
+   "links": "[\"https://www.youtube.com/watch?v=KRHv3DCJgKw\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-11 18:32:51"
+  },
+  {
+   "id": 50,
+   "source_id": "digest",
+   "category": "idea",
+   "content": "Sell AI-generated websites to local businesses as a side hustle, pitched as no-tech-skills.",
+   "math": "",
+   "links": "[\"https://www.youtube.com/watch?v=3aeAy3Qs2UA\", \"https://www.youtube.com/watch?v=_aGMxMmJJj4\"]",
+   "flags": "[]",
+   "created_at": "2026-09-11 18:32:51"
+  },
+  {
+   "id": 49,
+   "source_id": "digest",
+   "category": "redflag",
+   "content": "Video claims AI can earn $1000+ in 5 minutes via 3D animation; transcript unavailable.",
+   "math": "$1000+, 5 minutes",
+   "links": "[\"https://www.youtube.com/watch?v=0qrysp7iZ2E\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-11 18:32:51"
+  },
   {
    "id": 48,
    "source_id": "KRHv3DCJgKw",
