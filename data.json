@@ -1,12 +1,28 @@
 {
  "stats": {
-  "sources": 32,
+  "sources": 34,
   "facts": 48,
   "proposals": 26,
-  "updated": "2026-09-09",
+  "updated": "2026-09-10",
   "redflags": 11
  },
  "sources": [
+  {
+   "id": "pLs6ZKEDixQ",
+   "url": "https://www.youtube.com/watch?v=pLs6ZKEDixQ",
+   "title": "5 Genius Ways to Make Money From Home in 2026 (Using AI)",
+   "channel": "Liam Ottley",
+   "platform": "youtube",
+   "scraped_at": "2026-09-10 21:41:06"
+  },
+  {
+   "id": "_67MWD7XW9Q",
+   "url": "https://www.youtube.com/watch?v=_67MWD7XW9Q",
+   "title": "Laziest Way To Make Money With AI ($373/day+)",
+   "channel": "Iman Gadzhi",
+   "platform": "youtube",
+   "scraped_at": "2026-09-10 21:40:50"
+  },
   {
    "id": "5TNh-n2jJvM",
    "url": "https://www.youtube.com/watch?v=5TNh-n2jJvM",
