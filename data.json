@@ -1,10 +1,10 @@
 {
  "stats": {
   "sources": 35,
-  "facts": 54,
-  "proposals": 26,
-  "updated": "2026-09-11",
-  "redflags": 15
+  "facts": 62,
+  "proposals": 29,
+  "updated": "2026-09-12",
+  "redflags": 19
  },
  "sources": [
   {
@@ -289,6 +289,86 @@
   }
  ],
  "facts": [
+  {
+   "id": 62,
+   "source_id": "digest",
+   "category": "idea",
+   "content": "If an AI side-hustle creator's income comes from courses, communities, or affiliate funnels, they are selling the method rather than proving the underlying service; a Shopify store can do $100,000 in sales and still barely profit after ads, product costs, returns, software, transaction fees, and shipping.",
+   "math": "$100,000",
+   "links": "[\"https://www.youtube.com/watch?v=ymyir9dXjd8\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-12 18:31:29"
+  },
+  {
+   "id": 61,
+   "source_id": "digest",
+   "category": "redflag",
+   "content": "A side hustle showing a loss in 3 of 5 consecutive years can trigger the IRS hobby rule; commingling personal and business payments is reckless bookkeeping.",
+   "math": "3 of 5 years",
+   "links": "[\"https://www.youtube.com/watch?v=ntpzN_XlDXw\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-12 18:31:29"
+  },
+  {
+   "id": 60,
+   "source_id": "digest",
+   "category": "math",
+   "content": "Payment apps have a $20,000 and 200-transaction 1099-K reporting threshold, but staying below it does not make side-hustle income invisible.",
+   "math": "$20,000; 200 transactions",
+   "links": "[\"https://www.youtube.com/watch?v=ntpzN_XlDXw\"]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-12 18:31:29"
+  },
+  {
+   "id": 59,
+   "source_id": "digest",
+   "category": "math",
+   "content": "W-2 employees misreport taxes about 1% of the time, while side hustlers/sole proprietors do so about 55%; starting 2026 the IRS plans AI/automated enforcement.",
+   "math": "1%; 55%; 2026",
+   "links": "[\"https://www.youtube.com/watch?v=ntpzN_XlDXw\"]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-12 18:31:29"
+  },
+  {
+   "id": 58,
+   "source_id": "digest",
+   "category": "redflag",
+   "content": "Claims like a 67-year-old grandmother made $300 selling resume templates on Fiverr are used to funnel viewers to chaseswift.com AI trading.",
+   "math": "$300",
+   "links": "[\"https://www.youtube.com/watch?v=LiUwbBBAogE\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-12 18:31:29"
+  },
+  {
+   "id": 57,
+   "source_id": "digest",
+   "category": "math",
+   "content": "Amazon Associates pays commissions usually 1% to 10% on qualifying Amazon product sales.",
+   "math": "1-10%",
+   "links": "[\"https://www.youtube.com/watch?v=jkjk1EFM-tE\"]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-12 18:31:29"
+  },
+  {
+   "id": 56,
+   "source_id": "digest",
+   "category": "redflag",
+   "content": "Local lead-gen funnel pitches a 'simple lead generation website' for $3,000 while asking viewers to comment 'free course' for templates/scripts.",
+   "math": "$3,000",
+   "links": "[\"https://www.youtube.com/watch?v=3aeAy3Qs2UA\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-12 18:31:29"
+  },
+  {
+   "id": 55,
+   "source_id": "digest",
+   "category": "method",
+   "content": "AI animated story workflow: ChatGPT writes a 200-word narrated story split by scenes, ElevenLabs provides free text-to-speech, and a free AI image generator supplies scene images.",
+   "math": "200 words; 150 free images",
+   "links": "[\"https://www.youtube.com/watch?v=0qrysp7iZ2E\"]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-12 18:31:29"
+  },
   {
    "id": 54,
    "source_id": "digest",
@@ -831,6 +911,30 @@
   }
  ],
  "proposals": [
+  {
+   "id": 29,
+   "date": "2026-09-12",
+   "stack": "'Receipts' verification channel: DeepSeek research + side-hustle tax math + clipping -> debunk/verify hustle content",
+   "math": "views/1000 x rate. 100K views/mo = $300 @ $3.00/1K. Timely angle: 55% of side-hustlers misreport (fact 59), IRS AI enforcement starts 2026, 1099-K $20,000/200-tx threshold (fact 60).",
+   "status": "proposed",
+   "created_at": "2026-09-12 18:32:46"
+  },
+  {
+   "id": 28,
+   "date": "2026-09-12",
+   "stack": "AI hustle review/roundup content + Amazon Associates (1-10% commission) -> niche affiliate channel",
+   "math": "commission-based, not views-only. 100K views/mo -> ~2% click-out (2K clicks) -> 5% buy (100 orders) x $25 avg x 5% avg commission = ~$125/mo affiliate, plus CR clipping on top. Caveat (fact 62/58): prove the service, never sell fake-earnings funnels.",
+   "status": "proposed",
+   "created_at": "2026-09-12 18:32:46"
+  },
+  {
+   "id": 27,
+   "date": "2026-09-12",
+   "stack": "Faceless AI animated-story channel: ChatGPT (script) + ElevenLabs free TTS + free AI image gen -> Shorts/TikTok/YT",
+   "math": "prod cost ~$0 (free tiers). Revenue = views/1000 x rate. 100K views/mo = $300 @ $3.00/1K CR, or $60 @ $0.60/1K Whop; 500K views/mo = $300-$1500.",
+   "status": "proposed",
+   "created_at": "2026-09-12 18:32:46"
+  },
   {
    "id": 26,
    "date": "2026-09-07",
