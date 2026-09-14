@@ -1,12 +1,20 @@
 {
  "stats": {
-  "sources": 35,
-  "facts": 62,
-  "proposals": 29,
-  "updated": "2026-09-12",
-  "redflags": 19
+  "sources": 36,
+  "facts": 70,
+  "proposals": 32,
+  "updated": "2026-09-14",
+  "redflags": 25
  },
  "sources": [
+  {
+   "id": "hA91LtOslDs",
+   "url": "https://www.youtube.com/watch?v=hA91LtOslDs",
+   "title": "How To Create and Sell AI Websites To Local Businesses (full tutorial)",
+   "channel": "Pavlo",
+   "platform": "youtube",
+   "scraped_at": "2026-09-14 18:31:23"
+  },
   {
    "id": "ccs0g0Dz0XE",
    "url": "https://www.youtube.com/watch?v=ccs0g0Dz0XE",
@@ -289,6 +297,86 @@
   }
  ],
  "facts": [
+  {
+   "id": 70,
+   "source_id": "digest",
+   "category": "method",
+   "content": "Create a 3D animated story using ChatGPT to write a 200-word script with scene breakdown, ElevenLabs for text-to-speech, and an AI image generator offering 150 free images.",
+   "math": "200 words; 150 free images",
+   "links": "[\"https://www.youtube.com/watch?v=0qrysp7iZ2E\"]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-14 18:32:30"
+  },
+  {
+   "id": 69,
+   "source_id": "digest",
+   "category": "idea",
+   "content": "Skills learnable in one weekend become cheap crowded commodities; steep frustrating learning curves protect future income.",
+   "math": "",
+   "links": "[\"https://www.youtube.com/watch?v=vptFiJtwszE\"]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-14 18:32:30"
+  },
+  {
+   "id": 68,
+   "source_id": "digest",
+   "category": "redflag",
+   "content": "Many viral AI side-hustle gurus earn from selling access, courses, communities, software, affiliate links, or templates around the method, not from the method itself.",
+   "math": "",
+   "links": "[\"https://www.youtube.com/watch?v=ymyir9dXjd8\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-14 18:32:30"
+  },
+  {
+   "id": 67,
+   "source_id": "digest",
+   "category": "redflag",
+   "content": "A Shopify store can do $100,000 in sales and still barely profit after ads, product costs, returns, software, transaction fees, and shipping.",
+   "math": "$100,000 sales",
+   "links": "[\"https://www.youtube.com/watch?v=ymyir9dXjd8\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-14 18:32:30"
+  },
+  {
+   "id": 66,
+   "source_id": "digest",
+   "category": "method",
+   "content": "Payment apps have a $20,000/200-transaction threshold; staying under it and avoiding 1099-K does not make income invisible; a side-hustle loss in 3 of 5 years triggers the hobby rule.",
+   "math": "$20,000; 200 transactions; 3 of 5 years",
+   "links": "[\"https://www.youtube.com/watch?v=ntpzN_XlDXw\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-14 18:32:30"
+  },
+  {
+   "id": 65,
+   "source_id": "digest",
+   "category": "math",
+   "content": "Side hustlers/sole proprietors misreport taxes far more than W-2 employees, and the IRS is moving to AI/automated enforcement starting 2026.",
+   "math": "55% vs 1%; 2026",
+   "links": "[\"https://www.youtube.com/watch?v=ntpzN_XlDXw\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-14 18:32:30"
+  },
+  {
+   "id": 64,
+   "source_id": "digest",
+   "category": "math",
+   "content": "IRS audit triggers include expenses more than two standard deviations from average and undocumented deductions.",
+   "math": "$30,000 consulting fees; 6 years horse-breeding losses; $18,000 meals deduction; 2 standard deviations",
+   "links": "[\"https://www.youtube.com/watch?v=_oUkV27C32w\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-14 18:32:30"
+  },
+  {
+   "id": 63,
+   "source_id": "digest",
+   "category": "method",
+   "content": "IRS lifestyle audits use zip-code cost-of-living indices; reported income that cannot cover basic expenses can trigger an audit.",
+   "math": "Example: $70,000 income vs $2,500 mortgage + luxury SUV + Maui vacations",
+   "links": "[\"https://www.youtube.com/watch?v=_oUkV27C32w\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-14 18:32:30"
+  },
   {
    "id": 62,
    "source_id": "digest",
@@ -911,6 +999,30 @@
   }
  ],
  "proposals": [
+  {
+   "id": 32,
+   "date": "2026-09-14",
+   "stack": "AI automation agency: wire AI into SMB follow-up / lead-gen / booking workflows",
+   "math": "clients x $500/mo recurring. 10 clients x $500 = $5,000/mo (~$60k/yr). Digest qSqq5I1WtCA claims '$5k/mo per client, very doable' (transcript garbled; conservative $500 used).",
+   "status": "proposed",
+   "created_at": "2026-09-14 18:33:44"
+  },
+  {
+   "id": 31,
+   "date": "2026-09-14",
+   "stack": "AI-built local lead-gen website + Google ranking (SMB niche)",
+   "math": "lead-gen: booked jobs x price. 3 clients x $3,000 one-time = $9,000, + $200/mo retainer each. Real signal: one client paid $3,000 for a lead-gen site (digest 3aeAy3Qs2UA). FLAG: source pushes a 'comment free course below' funnel (redflag).",
+   "status": "proposed",
+   "created_at": "2026-09-14 18:33:44"
+  },
+  {
+   "id": 30,
+   "date": "2026-09-14",
+   "stack": "White-label SaaS reseller: free 'talking website' + AI chatbot for local SMBs (GoHighLevel-style)",
+   "math": "clients x $50/mo (white-label rate) = recurring. 20 clients x $50 = $1,000/mo. Alt GHL tier $300/mo x 10 = $3,000/mo. Marginal cost $0/client (digest _aGMxMmJJj4: 'costs go up by $0/mo per new client').",
+   "status": "proposed",
+   "created_at": "2026-09-14 18:33:44"
+  },
   {
    "id": 29,
    "date": "2026-09-12",
