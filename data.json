@@ -1,12 +1,36 @@
 {
  "stats": {
-  "sources": 36,
-  "facts": 70,
+  "sources": 39,
+  "facts": 78,
   "proposals": 32,
-  "updated": "2026-09-14",
-  "redflags": 25
+  "updated": "2026-09-15",
+  "redflags": 33
  },
  "sources": [
+  {
+   "id": "oq2CAiFxhRM",
+   "url": "https://www.youtube.com/watch?v=oq2CAiFxhRM",
+   "title": "The AI Side Hustle Lie Nobody Talks About",
+   "channel": "Just Ask Dider",
+   "platform": "youtube",
+   "scraped_at": "2026-09-15 18:31:32"
+  },
+  {
+   "id": "EqVJT2au7zk",
+   "url": "https://www.youtube.com/watch?v=EqVJT2au7zk",
+   "title": "Top 10 Claude AI Side Hustles That Can Pay A Full-Time Income (Ranked)",
+   "channel": "Shane Hummus",
+   "platform": "youtube",
+   "scraped_at": "2026-09-15 18:31:02"
+  },
+  {
+   "id": "-pp851qDmOY",
+   "url": "https://www.youtube.com/watch?v=-pp851qDmOY",
+   "title": "The SIMPLEST Way To Make Money Online With Claude AI In 2026",
+   "channel": "Money Talk With Leon",
+   "platform": "youtube",
+   "scraped_at": "2026-09-15 18:30:57"
+  },
   {
    "id": "hA91LtOslDs",
    "url": "https://www.youtube.com/watch?v=hA91LtOslDs",
@@ -297,6 +321,86 @@
   }
  ],
  "facts": [
+  {
+   "id": 78,
+   "source_id": "digest",
+   "category": "redflag",
+   "content": "All 12 videos in digest have transcripts unavailable; analysis is title/metadata only, so claims are unverifiable from provided text.",
+   "math": "12 videos",
+   "links": "[]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-15 18:31:53"
+  },
+  {
+   "id": 77,
+   "source_id": "digest",
+   "category": "idea",
+   "content": "Video 'How to Sell AI Websites to Local Businesses in 2026 (No Tech Skills)' suggests selling AI websites to local businesses as a service.",
+   "math": "",
+   "links": "[\"https://www.youtube.com/watch?v=3aeAy3Qs2UA\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-15 18:31:53"
+  },
+  {
+   "id": 76,
+   "source_id": "digest",
+   "category": "redflag",
+   "content": "Video '10 Easiest AI Side Hustle Make Actual Money Online \u2014 What Changed After Age 65' targets age 65 with 10 easiest AI side hustles.",
+   "math": "10, age 65",
+   "links": "[\"https://www.youtube.com/watch?v=LiUwbBBAogE\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-15 18:31:53"
+  },
+  {
+   "id": 75,
+   "source_id": "digest",
+   "category": "redflag",
+   "content": "Video 'Laziest Way to Make Money with AI (Starting From Zero)' promises lazy AI money from zero.",
+   "math": "",
+   "links": "[\"https://www.youtube.com/watch?v=uz_3dSU8rQo\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-15 18:31:53"
+  },
+  {
+   "id": 74,
+   "source_id": "digest",
+   "category": "redflag",
+   "content": "Video 'The SIMPLEST Way To Make Money Online With Claude AI In 2026' promises simple online money with Claude AI.",
+   "math": "",
+   "links": "[\"https://www.youtube.com/watch?v=-pp851qDmOY\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-15 18:31:53"
+  },
+  {
+   "id": 73,
+   "source_id": "digest",
+   "category": "redflag",
+   "content": "Video 'I Tracked 100 \"I Make $10K/Month With AI\" Claims, How many are Real?' references 100 claims of $10K/month with AI.",
+   "math": "100 claims, $10K/month",
+   "links": "[\"https://www.youtube.com/watch?v=ymyir9dXjd8\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-15 18:31:53"
+  },
+  {
+   "id": 72,
+   "source_id": "digest",
+   "category": "redflag",
+   "content": "Video 'MAKE MONEY ON YT WITH AI in 5 MINUTES!' promises making money on YouTube with AI in 5 minutes.",
+   "math": "5 minutes",
+   "links": "[\"https://www.youtube.com/watch?v=KRHv3DCJgKw\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-15 18:31:53"
+  },
+  {
+   "id": 71,
+   "source_id": "digest",
+   "category": "redflag",
+   "content": "Video '3D Animation in Just 5 Minutes! - Make Money With Ai [Earn $1000+]' promises $1000+ earnings from AI in 5 minutes.",
+   "math": "$1000+, 5 minutes",
+   "links": "[\"https://www.youtube.com/watch?v=0qrysp7iZ2E\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-15 18:31:53"
+  },
   {
    "id": 70,
    "source_id": "digest",
