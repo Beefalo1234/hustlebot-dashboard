@@ -1,12 +1,60 @@
 {
  "stats": {
-  "sources": 40,
-  "facts": 86,
-  "proposals": 34,
-  "updated": "2026-09-16",
-  "redflags": 34
+  "sources": 46,
+  "facts": 96,
+  "proposals": 35,
+  "updated": "2026-09-17",
+  "redflags": 37
  },
  "sources": [
+  {
+   "id": "K024MRwHSHU",
+   "url": "https://www.youtube.com/watch?v=K024MRwHSHU",
+   "title": "I Found the Laziest Way to Make Money Online With AI",
+   "channel": "Smart Money Tactics",
+   "platform": "youtube",
+   "scraped_at": "2026-09-17 18:33:16"
+  },
+  {
+   "id": "sQQN53qx-VI",
+   "url": "https://www.youtube.com/watch?v=sQQN53qx-VI",
+   "title": "BEST Claude A.I. Side Hustle Nobody is Talking About",
+   "channel": "Sean Dollwet",
+   "platform": "youtube",
+   "scraped_at": "2026-09-17 18:33:08"
+  },
+  {
+   "id": "dLQzVLtvdv8",
+   "url": "https://www.youtube.com/watch?v=dLQzVLtvdv8",
+   "title": "Ghost in the Machine | Full Documentary",
+   "channel": "PBS Documentaries and Independent Lens",
+   "platform": "youtube",
+   "scraped_at": "2026-09-17 18:31:39"
+  },
+  {
+   "id": "XHhy100w61w",
+   "url": "https://www.youtube.com/watch?v=XHhy100w61w",
+   "title": "The IRS Is Now Using AI to Flag Your Return \u2014 7 Red Flags That Could Trigger an Audit in 2026",
+   "channel": "David Jean-Georges",
+   "platform": "youtube",
+   "scraped_at": "2026-09-17 18:31:36"
+  },
+  {
+   "id": "DZoeGR_tatA",
+   "url": "https://www.youtube.com/watch?v=DZoeGR_tatA",
+   "title": "5 Proven Ways To Make Money With AI (No Experience)",
+   "channel": "Iman Gadzhi",
+   "platform": "youtube",
+   "scraped_at": "2026-09-17 18:31:21"
+  },
+  {
+   "id": "xfOT2elC2Ok",
+   "url": "https://www.youtube.com/watch?v=xfOT2elC2Ok",
+   "title": "I Tried AI Dropshipping For 7 Days, Here's How You Can Copy Me",
+   "channel": "Mark Tilbury",
+   "platform": "youtube",
+   "scraped_at": "2026-09-17 18:31:08"
+  },
   {
    "id": "P-ULbNbV5IQ",
    "url": "https://www.youtube.com/watch?v=P-ULbNbV5IQ",
@@ -329,6 +377,106 @@
   }
  ],
  "facts": [
+  {
+   "id": 96,
+   "source_id": "K024MRwHSHU",
+   "category": "method",
+   "content": "Video promotes a faceless affiliate marketing strategy using AI, no product creation, designed for 30\u201360 minutes/day once set up, with emailing leads; it also promotes Lead Gen Secret and paid training.",
+   "math": "30\u201360 minutes/day",
+   "links": "[\"https://www.smartmoneytactics.com/faceless-tactics/\", \"https://www.smartmoneytactics.com/mlgs\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-17 18:34:06"
+  },
+  {
+   "id": 95,
+   "source_id": "3aeAy3Qs2UA",
+   "category": "redflag",
+   "content": "HighLevel affiliate/course funnel pushes a 30-day free trial plus $5,525 in bonuses and claims $2,000\u2013$5,000 per client for AI websites.",
+   "math": "$5,525 bonuses; $2,000\u2013$5,000 per client",
+   "links": "[\"https://thesavvycouple.com/highlevel/\", \"https://www.gohighlevel.com/297upgrade?fp_ref=thesavvycouple\", \"https://gohighlevel.com/saasupgrade?fp_ref=thesavvycouple\", \"https://thesavvycouple.com/aicommunity\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-17 18:34:06"
+  },
+  {
+   "id": 94,
+   "source_id": "_oUkV27C32w",
+   "category": "redflag",
+   "content": "Video claims the IRS deployed an $80B AI-powered audit system in 2026 that cross-references property, bank deposits, car registrations, and Instagram; treat as unverified/misleading.",
+   "math": "$80B; 8 red flags",
+   "links": "[]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-17 18:34:06"
+  },
+  {
+   "id": 93,
+   "source_id": "ntpzN_XlDXw",
+   "category": "idea",
+   "content": "Video describes IRS AI audit triggers for side hustles: 1099-K matching, home office deductions, mileage logs/recapture, hobby-loss rules, and sloppy books; recommends separating finances and clean logs.",
+   "math": "$80B tax gap; 55% of sole proprietors underreporting",
+   "links": "[]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-17 18:34:06"
+  },
+  {
+   "id": 92,
+   "source_id": "ymyir9dXjd8",
+   "category": "idea",
+   "content": "A review of 100 viral 'I make $10K/month with AI' claims found only 12 held up after checking proof, profit, income sources, and repeatability.",
+   "math": "100 claims; 12 real; $10K/month claim",
+   "links": "[\"https://blmarketer.com/aisidehustleoptin\"]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-17 18:34:06"
+  },
+  {
+   "id": 91,
+   "source_id": "_aGMxMmJJj4",
+   "category": "method",
+   "content": "Cold text pitch for a business with no website: introduce yourself, say you live nearby, note they have no website, say you built one, and ask to send the link; a variant exists for a bad website and an in-person pitch.",
+   "math": "",
+   "links": "[]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-17 18:34:06"
+  },
+  {
+   "id": 90,
+   "source_id": "_aGMxMmJJj4",
+   "category": "method",
+   "content": "GoHighLevel AI Studio prompt: 'It's called [Business Name] in [City, State]. Use whatever booking schedule seems appropriate. Build it in [Platform Name], please. Fully integrate it into this sub account.'",
+   "math": "",
+   "links": "[]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-17 18:34:06"
+  },
+  {
+   "id": 89,
+   "source_id": "_aGMxMmJJj4",
+   "category": "method",
+   "content": "Follow-up website prompt: use a reference website URL, list all target metro suburbs over a population size, and make the site SEO and AEO friendly.",
+   "math": "",
+   "links": "[]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-17 18:34:06"
+  },
+  {
+   "id": 88,
+   "source_id": "_aGMxMmJJj4",
+   "category": "method",
+   "content": "Prompt template for generating a website-building prompt: 'I'm going to use [Platform Name]'s new vibe coding tool to make a [Business Type] website, but I need a really good prompt for it that knows how to talk to [Platform Name]. It'll be a [Business Type] website based in [City, State].'",
+   "math": "",
+   "links": "[]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-17 18:34:06"
+  },
+  {
+   "id": 87,
+   "source_id": "_aGMxMmJJj4",
+   "category": "method",
+   "content": "Build simple local-business websites in GoHighLevel, pitch by text, and convert to monthly recurring revenue; handymen are suggested as a good niche with upsells to AI receptionists, booking, and lead gen.",
+   "math": "",
+   "links": "[\"https://www.gohighlevel.com/TKOPOD\", \"https://TKOPOD.com\", \"https://TKOwners.com\", \"https://www.youtube.com/playlist?list=PL5doEXwy4gHX7-DzSGyLAObx_WyGoW0Jj\"]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-17 18:34:06"
+  },
   {
    "id": 86,
    "source_id": "digest",
@@ -1191,6 +1339,14 @@
   }
  ],
  "proposals": [
+  {
+   "id": 35,
+   "date": "2026-09-17",
+   "stack": "Survivorship-rate debunk series: audit 100 viral 'AI money' claims, publish only the ones that survive a 4-point check (proof / profit / income sources / red flags)",
+   "math": "Fact 92: 100 viral '$10K/mo AI' claims -> only 12 held up (12% survival). RPM $3.00 CR / $0.60 Whop. 100k views = $300 CR / $60 Whop. Series of 10 audits x 50k views = $150 CR each = ~$1,500 CR total. Distinct from #29/#34: quantified survival rate + repeatable 4-point audit.",
+   "status": "proposed",
+   "created_at": "2026-09-17 18:35:24"
+  },
   {
    "id": 34,
    "date": "2026-09-16",
