@@ -1,12 +1,20 @@
 {
  "stats": {
-  "sources": 39,
-  "facts": 78,
-  "proposals": 32,
-  "updated": "2026-09-15",
-  "redflags": 33
+  "sources": 40,
+  "facts": 86,
+  "proposals": 34,
+  "updated": "2026-09-16",
+  "redflags": 34
  },
  "sources": [
+  {
+   "id": "P-ULbNbV5IQ",
+   "url": "https://www.youtube.com/watch?v=P-ULbNbV5IQ",
+   "title": "The Simple Way I'm Making Money Online With AI",
+   "channel": "Wholesale Ted",
+   "platform": "youtube",
+   "scraped_at": "2026-09-16 20:12:12"
+  },
   {
    "id": "oq2CAiFxhRM",
    "url": "https://www.youtube.com/watch?v=oq2CAiFxhRM",
@@ -321,6 +329,86 @@
   }
  ],
  "facts": [
+  {
+   "id": 86,
+   "source_id": "digest",
+   "category": "math",
+   "content": "AI video tools cost about $120/month for Google Flow and up to $20/month for ChatGPT.",
+   "math": "$120/month; $20/month",
+   "links": "[\"https://www.youtube.com/watch?v=z_Ib7A0-0R4\"]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-16 20:12:59"
+  },
+  {
+   "id": 85,
+   "source_id": "digest",
+   "category": "math",
+   "content": "A Shopify store can do $100,000 in sales and still barely make anything after ads, product costs, returns, software, transaction fees, and shipping.",
+   "math": "$100,000 sales",
+   "links": "[\"https://www.youtube.com/watch?v=ymyir9dXjd8\"]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-16 20:12:59"
+  },
+  {
+   "id": 84,
+   "source_id": "digest",
+   "category": "redflag",
+   "content": "AI side hustle videos often monetize by selling a course, community, affiliate link, software subscription, or templates around the method rather than the method itself.",
+   "math": "",
+   "links": "[\"https://www.youtube.com/watch?v=ymyir9dXjd8\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-16 20:12:59"
+  },
+  {
+   "id": 83,
+   "source_id": "digest",
+   "category": "math",
+   "content": "Expenses more than two standard deviations from average can flag review for unusual deductions; examples include $30,000 consulting fees with no documentation and $18,000 in meals.",
+   "math": "2 standard deviations; $30,000; $18,000",
+   "links": "[\"https://www.youtube.com/watch?v=_oUkV27C32w\"]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-16 20:12:59"
+  },
+  {
+   "id": 82,
+   "source_id": "digest",
+   "category": "method",
+   "content": "IRS uses cost-of-living indices for your zip code and flags lifestyle audits when reported income cannot cover basic expenses like mortgage, luxury car, and vacations.",
+   "math": "",
+   "links": "[\"https://www.youtube.com/watch?v=_oUkV27C32w\"]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-16 20:12:59"
+  },
+  {
+   "id": 81,
+   "source_id": "digest",
+   "category": "idea",
+   "content": "If a side hustle shows a loss in 3 of 5 consecutive years, the IRS triggers the hobby rule.",
+   "math": "3 of 5 years",
+   "links": "[\"https://www.youtube.com/watch?v=ntpzN_XlDXw\"]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-16 20:12:59"
+  },
+  {
+   "id": 80,
+   "source_id": "digest",
+   "category": "math",
+   "content": "Payment apps have a $20,000 and 200-transaction threshold under recent reporting rules.",
+   "math": "$20,000; 200 transactions",
+   "links": "[\"https://www.youtube.com/watch?v=ntpzN_XlDXw\"]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-16 20:12:58"
+  },
+  {
+   "id": 79,
+   "source_id": "digest",
+   "category": "math",
+   "content": "W-2 employees misreport taxes only 1% of the time, while side hustlers and sole proprietors misreport 55% of the time.",
+   "math": "1%; 55%",
+   "links": "[\"https://www.youtube.com/watch?v=ntpzN_XlDXw\"]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-16 20:12:58"
+  },
   {
    "id": 78,
    "source_id": "digest",
@@ -1103,6 +1191,22 @@
   }
  ],
  "proposals": [
+  {
+   "id": 34,
+   "date": "2026-09-16",
+   "stack": "AI cost-reality / anti-guru clipping: expose real numbers behind AI-hustle claims",
+   "math": "Facts 84-86 (Shopify $100k sales still barely profits; AI video tools ~$120/mo Google Flow; course-funnel redflag). RPM $3.00 CR / $0.60 Whop. 100k views = $300 CR / $60 Whop (views hypothetical).",
+   "status": "proposed",
+   "created_at": "2026-09-16 20:19:05"
+  },
+  {
+   "id": 33,
+   "date": "2026-09-16",
+   "stack": "Tax-safety content engine: AI scripts + salvaged IRS facts -> short-form clipping",
+   "math": "Facts 79-83 library (55% misreport, $20k/200-tx threshold, 3-of-5-yr hobby rule, zip-code lifestyle audit). RPM $3.00 CR / $0.60 Whop. 50k views/clip = $150 CR. 10 clips/mo = $1,500/mo (views hypothetical - no real traffic data).",
+   "status": "proposed",
+   "created_at": "2026-09-16 20:19:05"
+  },
   {
    "id": 32,
    "date": "2026-09-14",
