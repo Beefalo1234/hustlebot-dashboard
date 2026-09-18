@@ -1,12 +1,28 @@
 {
  "stats": {
-  "sources": 46,
+  "sources": 48,
   "facts": 96,
   "proposals": 35,
-  "updated": "2026-09-17",
+  "updated": "2026-09-18",
   "redflags": 37
  },
  "sources": [
+  {
+   "id": "zpOn5-sKjMM",
+   "url": "https://www.youtube.com/watch?v=zpOn5-sKjMM",
+   "title": "5 AI Side Hustles Ranked for 2026 \u2014 I Checked the List That Puts a $27 Kit at Number One",
+   "channel": "Money Behind the Screen",
+   "platform": "youtube",
+   "scraped_at": "2026-09-18 18:32:20"
+  },
+  {
+   "id": "pSxbMWOdxXA",
+   "url": "https://www.youtube.com/watch?v=pSxbMWOdxXA",
+   "title": "How to Check If an AI Side Hustle Is Legit",
+   "channel": "Ola Korex",
+   "platform": "youtube",
+   "scraped_at": "2026-09-18 18:32:11"
+  },
   {
    "id": "K024MRwHSHU",
    "url": "https://www.youtube.com/watch?v=K024MRwHSHU",
