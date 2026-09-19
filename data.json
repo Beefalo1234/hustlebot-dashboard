@@ -1,12 +1,20 @@
 {
  "stats": {
-  "sources": 48,
-  "facts": 96,
-  "proposals": 35,
-  "updated": "2026-09-18",
-  "redflags": 37
+  "sources": 49,
+  "facts": 104,
+  "proposals": 38,
+  "updated": "2026-09-19",
+  "redflags": 40
  },
  "sources": [
+  {
+   "id": "_2jhDuTh6Oc",
+   "url": "https://www.youtube.com/watch?v=_2jhDuTh6Oc",
+   "title": "10 Websites That Actually Pay You Money \ud83d\udcb0 | New Side Income Websites",
+   "channel": "Smart With Avy",
+   "platform": "youtube",
+   "scraped_at": "2026-09-19 19:36:47"
+  },
   {
    "id": "zpOn5-sKjMM",
    "url": "https://www.youtube.com/watch?v=zpOn5-sKjMM",
@@ -393,6 +401,86 @@
   }
  ],
  "facts": [
+  {
+   "id": 104,
+   "source_id": "digest",
+   "category": "redflag",
+   "content": "Course-funnel red flags: comment 'free course' to get templates/scripts and a claimed $3,000 local lead-gen website; Claude AI PDF guide store claims $600/day with Shopify $1/month for 3 months and $10,000 credits while pushing a 3+ hour course.",
+   "math": "$3,000; $600/day; $1/month for 3 months; $10,000 credits",
+   "links": "[\"https://www.youtube.com/watch?v=3aeAy3Qs2UA\", \"https://www.youtube.com/watch?v=-pp851qDmOY\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-19 19:37:43"
+  },
+  {
+   "id": 103,
+   "source_id": "digest",
+   "category": "method",
+   "content": "AI website/SEO service can start with ~$20-$40/month AI subscriptions and a 3-tool stack; charge clients per page then offer monthly optimization; website builders run ~$30/month, Shopify has a 3-day free trial, and AutoDS costs $0.99 to start; source video also upsells paid client-finding training.",
+   "math": "$20-$40/month; 3 tools; $30/month; 3-day trial; $0.99",
+   "links": "[\"https://www.youtube.com/watch?v=ytAW1_g2IfI\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-19 19:37:43"
+  },
+  {
+   "id": 102,
+   "source_id": "digest",
+   "category": "method",
+   "content": "Before trusting an online earning platform, check for consistent user chatter and real earnings screenshots, confirm explicit payment methods, minimum withdrawal, and payment schedule, avoid gift-card-only or obscure processors, and verify official terms because pay and geo rules change.",
+   "math": "",
+   "links": "[\"https://www.youtube.com/watch?v=pSxbMWOdxXA\"]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-19 19:37:43"
+  },
+  {
+   "id": 101,
+   "source_id": "digest",
+   "category": "redflag",
+   "content": "A Shopify store can do $100,000 in sales and still barely profit after ads, product costs, returns, software, transaction fees, and shipping; many viral AI-hustle earnings come from selling the method via course, community, affiliate, or software.",
+   "math": "$100,000",
+   "links": "[\"https://www.youtube.com/watch?v=ymyir9dXjd8\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-19 19:37:43"
+  },
+  {
+   "id": 100,
+   "source_id": "digest",
+   "category": "method",
+   "content": "The IRS uses zip-code cost-of-living indices and flags expenses more than 2 standard deviations from averages for lifestyle audits; examples include $70k income with a $2,500 mortgage, $30k undocumented consulting fees, and $18k meals.",
+   "math": "$70,000; $2,500; 2 standard deviations; $30,000; $18,000",
+   "links": "[\"https://www.youtube.com/watch?v=_oUkV27C32w\"]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-19 19:37:43"
+  },
+  {
+   "id": 99,
+   "source_id": "digest",
+   "category": "method",
+   "content": "If a side hustle shows a loss in 3 out of 5 consecutive years, the IRS triggers the hobby rule.",
+   "math": "3 of 5 years",
+   "links": "[\"https://www.youtube.com/watch?v=ntpzN_XlDXw\"]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-19 19:37:43"
+  },
+  {
+   "id": 98,
+   "source_id": "digest",
+   "category": "math",
+   "content": "W-2 employees misreport taxes only 1% of the time while side hustlers and sole proprietors misreport at 55%; payment apps have a $20,000 and 200-transaction threshold, and starting in 2026 the IRS is using AI and automated enforcement.",
+   "math": "1%; 55%; $20,000; 200 transactions; 2026",
+   "links": "[\"https://www.youtube.com/watch?v=ntpzN_XlDXw\"]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-19 19:37:43"
+  },
+  {
+   "id": 97,
+   "source_id": "digest",
+   "category": "method",
+   "content": "Create a 3D animated love story by having ChatGPT write a ~200-word story split into scenes, using ElevenLabs for text-to-speech, and a free AI image generator for visuals.",
+   "math": "200 words; 150 free images",
+   "links": "[\"https://www.youtube.com/watch?v=0qrysp7iZ2E\"]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-19 19:37:43"
+  },
   {
    "id": 96,
    "source_id": "K024MRwHSHU",
@@ -1355,6 +1443,30 @@
   }
  ],
  "proposals": [
+  {
+   "id": 38,
+   "date": "2026-09-19",
+   "stack": "AI lead-gen booking: useful site + AI outreach + booked service jobs",
+   "math": "Lead-gen = booked jobs x price. ASSUMED 10 jobs/mo x $150 -> $1500/mo. Job count and price are assumptions; price set per niche.",
+   "status": "proposed",
+   "created_at": "2026-09-19 19:39:20"
+  },
+  {
+   "id": 37,
+   "date": "2026-09-19",
+   "stack": "White-label micro-SaaS: useful tool site + AI automation + local-client upsell",
+   "math": "White-label subs = clients x $50/mo. ASSUMED 5 clients -> $250/mo; 20 clients -> $1000/mo. Client counts unknown; $50/mo is the standard white-label rate.",
+   "status": "proposed",
+   "created_at": "2026-09-19 19:39:20"
+  },
+  {
+   "id": 36,
+   "date": "2026-09-19",
+   "stack": "AI clipping stack: niche site (core) + AI clip tool + short-form distribution",
+   "math": "Clipping = views/1000 x rate. Whop ~$0.60, Content Rewards ~$3.00 per 1k views. ASSUMED 100k views/mo -> $60 (Whop) to $300 (CR) per month. Real view counts unknown until posted.",
+   "status": "proposed",
+   "created_at": "2026-09-19 19:39:20"
+  },
   {
    "id": 35,
    "date": "2026-09-17",
