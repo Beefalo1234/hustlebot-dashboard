@@ -1,12 +1,28 @@
 {
  "stats": {
-  "sources": 49,
-  "facts": 104,
-  "proposals": 38,
-  "updated": "2026-09-19",
-  "redflags": 40
+  "sources": 50,
+  "facts": 112,
+  "proposals": 40,
+  "updated": "2026-09-22",
+  "redflags": 42
  },
  "sources": [
+  {
+   "id": "lJqJmTnxVCs",
+   "url": "https://www.youtube.com/watch?v=lJqJmTnxVCs",
+   "title": "5 Ways People Are Making Money With AI in 2026",
+   "channel": "Jeremy Ray Holst | AI Creator & Educator",
+   "platform": "youtube",
+   "scraped_at": "2026-09-22 15:49:30"
+  },
+  {
+   "id": "LlhTEttKcwQ",
+   "url": "https://www.youtube.com/watch?v=LlhTEttKcwQ",
+   "title": "I Tried The LAZIEST Way to Make Money With AI",
+   "channel": "Mark Tilbury",
+   "platform": "youtube",
+   "scraped_at": "2026-09-22 15:48:37"
+  },
   {
    "id": "_2jhDuTh6Oc",
    "url": "https://www.youtube.com/watch?v=_2jhDuTh6Oc",
@@ -390,17 +406,89 @@
    "channel": "Joshua Elder",
    "platform": "youtube",
    "scraped_at": "2026-08-24 13:00:41"
-  },
-  {
-   "id": "3aeAy3Qs2UA",
-   "url": "https://www.youtube.com/watch?v=3aeAy3Qs2UA",
-   "title": "How to Sell AI Websites to Local Businesses in 2026 (No Tech Skills)",
-   "channel": "The Savvy Couple - Kelan & Brittany ",
-   "platform": "youtube",
-   "scraped_at": "2026-08-24 13:00:20"
   }
  ],
  "facts": [
+  {
+   "id": 112,
+   "source_id": "digest",
+   "category": "method",
+   "content": "Use SEMrush or Ubersuggest to find the top 10 blogs in a niche for SEO/content opportunities; AI SEO help can pay $200-$500/day on the high end.",
+   "math": "top 10 blogs; $200-$500/day",
+   "links": "[\"https://www.youtube.com/watch?v=uz_3dSU8rQo\"]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-22 15:50:19"
+  },
+  {
+   "id": 111,
+   "source_id": "digest",
+   "category": "redflag",
+   "content": "Course-funnel red flags: local lead-gen websites pitched at $3,000 and reseller SaaS at $50/month per customer (100 customers = $7,500/month) while promising near-pure profit.",
+   "math": "$3,000; $50/month; 100 customers; $7,500/month",
+   "links": "[\"https://www.youtube.com/watch?v=3aeAy3Qs2UA\", \"https://www.youtube.com/watch?v=_aGMxMmJJj4\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-22 15:50:19"
+  },
+  {
+   "id": 110,
+   "source_id": "digest",
+   "category": "idea",
+   "content": "AI-assisted freelancing uses AI to speed an existing skill and take more clients without more hours; small single-purpose tools can launch free and add a paid tier once they save time; avoid reselling AI access, generic AI consulting, and AI+crypto.",
+   "math": "",
+   "links": "[\"https://www.youtube.com/watch?v=lJqJmTnxVCs\"]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-22 15:50:19"
+  },
+  {
+   "id": 109,
+   "source_id": "digest",
+   "category": "math",
+   "content": "AI side-hustle startup costs: ~$20-$40/mo in AI subscriptions with a 3-tool stack; website builder ~$30/mo; Shopify 3-day free trial; AutoDS $0.99; pricing can be per-page then monthly optimization.",
+   "math": "$20-$40/mo; 3 tools; $30/mo; 3-day free trial; $0.99; per-page + monthly",
+   "links": "[\"https://www.youtube.com/watch?v=ytAW1_g2IfI\"]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-22 15:50:18"
+  },
+  {
+   "id": 108,
+   "source_id": "digest",
+   "category": "method",
+   "content": "Agency/service businesses have near-zero startup cost and recurring monthly clients paying thousands/month, but require strong sales skills; AI video creation tools cost Google Flow ~$120/mo and ChatGPT up to $20/mo.",
+   "math": "$120/mo; $20/mo; thousands/month; near-zero startup",
+   "links": "[\"https://www.youtube.com/watch?v=z_Ib7A0-0R4\"]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-22 15:50:18"
+  },
+  {
+   "id": 107,
+   "source_id": "digest",
+   "category": "method",
+   "content": "Before joining an AI training/earning platform, verify consistent public payment chatter and real screenshots, explicit payment methods, minimum withdrawal amounts, and payment schedule; beware gift-card-only or obscure payment processors.",
+   "math": "",
+   "links": "[\"https://www.youtube.com/watch?v=pSxbMWOdxXA\"]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-22 15:50:18"
+  },
+  {
+   "id": 106,
+   "source_id": "digest",
+   "category": "redflag",
+   "content": "Viral AI side-hustle earnings often come from selling courses/communities/affiliate links/templates around the method; a Shopify store can do $100,000 in sales and still barely profit after ads, product costs, returns, software, transaction fees, and shipping.",
+   "math": "$100,000 in sales",
+   "links": "[\"https://www.youtube.com/watch?v=ymyir9dXjd8\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-22 15:50:18"
+  },
+  {
+   "id": 105,
+   "source_id": "digest",
+   "category": "math",
+   "content": "Side-hustle tax triggers: W-2 employees misreport ~1% vs 55% for side hustlers/sole proprietors; starting 2026 IRS uses AI/automated enforcement; 1099-K threshold is $20,000 and 200 transactions; loss in 3 of 5 consecutive years triggers hobby rule.",
+   "math": "1%; 55%; 2026; $20,000; 200 transactions; 3 of 5 years",
+   "links": "[\"https://www.youtube.com/watch?v=ntpzN_XlDXw\"]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-22 15:50:18"
+  },
   {
    "id": 104,
    "source_id": "digest",
@@ -1443,6 +1531,22 @@
   }
  ],
  "proposals": [
+  {
+   "id": 40,
+   "date": "2026-09-22",
+   "stack": "AI virtual influencer -> $12 digital product + affiliate",
+   "math": "Real (LlhTEttKcwQ): AI virtual influencer sold a $12 workbook x 23 sales = $276 gross, PayPal fees $19.52. Source cost line '$11,852' is a transcription corruption (likely $118.52: ~$19.52 fees + ~$99 platform) - real cost UNKNOWN. Modeled scale: 3 products x 23 sales/mo = 69 sales x $12 = $828/mo gross, ~$760/mo net. Greenflag: zero inventory, one build sells repeatedly. Redflag: source plugs a 'Tilbury' discount code.",
+   "status": "proposed",
+   "created_at": "2026-09-22 15:56:26"
+  },
+  {
+   "id": 39,
+   "date": "2026-09-22",
+   "stack": "Side-hustler tax-compliance content niche (2026 IRS AI enforcement)",
+   "math": "Facts (real, ntpzN_XlDXw): side-hustler tax error rate 55% vs 1% W-2; 1099-K threshold $20,000/200 transactions; hobby rule = loss 3 of 5 years. Monetization: trust-positioned 'don't get audited' Shorts + tax/bookkeeping SaaS affiliate. Modeled: 100K views/mo x $3.00/1000 (Content Rewards) = $300/mo; affiliate UNKNOWN (est $75-150/mo at 0.5% CTR x $15-30/install). Greenflag: timely 2026 rule change, low content supply.",
+   "status": "proposed",
+   "created_at": "2026-09-22 15:56:26"
+  },
   {
    "id": 38,
    "date": "2026-09-19",
