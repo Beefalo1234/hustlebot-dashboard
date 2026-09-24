@@ -3,10 +3,18 @@
   "sources": 50,
   "facts": 112,
   "proposals": 40,
-  "updated": "2026-09-22",
+  "updated": "2026-09-23",
   "redflags": 42
  },
  "sources": [
+  {
+   "id": "bJnfo0059dg",
+   "url": "https://www.youtube.com/watch?v=bJnfo0059dg",
+   "title": "How To Make Money On Mercor AI in 2026 (Step by Step)",
+   "channel": "A1 Republic",
+   "platform": "youtube",
+   "scraped_at": "2026-09-23 21:13:23"
+  },
   {
    "id": "lJqJmTnxVCs",
    "url": "https://www.youtube.com/watch?v=lJqJmTnxVCs",
@@ -398,14 +406,6 @@
    "channel": "Wholesale Ted",
    "platform": "youtube",
    "scraped_at": "2026-08-25 02:14:39"
-  },
-  {
-   "id": "N6YCF0bZGNs",
-   "url": "https://www.youtube.com/watch?v=N6YCF0bZGNs",
-   "title": "The Lazy 5 Minute AI Method To Make $100/Day Online For Beginners",
-   "channel": "Joshua Elder",
-   "platform": "youtube",
-   "scraped_at": "2026-08-24 13:00:41"
   }
  ],
  "facts": [
