@@ -3,10 +3,26 @@
   "sources": 50,
   "facts": 112,
   "proposals": 40,
-  "updated": "2026-09-23",
+  "updated": "2026-09-25",
   "redflags": 42
  },
  "sources": [
+  {
+   "id": "Xnla8a0eBdc",
+   "url": "https://www.youtube.com/watch?v=Xnla8a0eBdc",
+   "title": "6 Red Flags an AI Side Hustle Is a Scam (Real FTC Cases)",
+   "channel": "HustleProof AI",
+   "platform": "youtube",
+   "scraped_at": "2026-09-25 18:32:24"
+  },
+  {
+   "id": "Fgutvd4-F_0",
+   "url": "https://www.youtube.com/watch?v=Fgutvd4-F_0",
+   "title": "The ONLY 10 Ways to Make Money with AI",
+   "channel": "Sabrina Ramonov \ud83c\udf44",
+   "platform": "youtube",
+   "scraped_at": "2026-09-25 18:32:13"
+  },
   {
    "id": "bJnfo0059dg",
    "url": "https://www.youtube.com/watch?v=bJnfo0059dg",
@@ -390,22 +406,6 @@
    "channel": "Paul J Lipsky",
    "platform": "youtube",
    "scraped_at": "2026-08-25 02:14:44"
-  },
-  {
-   "id": "MEPnlsiDgM0",
-   "url": "https://www.youtube.com/watch?v=MEPnlsiDgM0",
-   "title": "I built a real app in 5 days with AI (side hustle)",
-   "channel": "Mikey No Code",
-   "platform": "youtube",
-   "scraped_at": "2026-08-25 02:14:41"
-  },
-  {
-   "id": "8NvhbfZNTrc",
-   "url": "https://www.youtube.com/watch?v=8NvhbfZNTrc",
-   "title": "The Best AI Side Hustles To Start If You're BROKE",
-   "channel": "Wholesale Ted",
-   "platform": "youtube",
-   "scraped_at": "2026-08-25 02:14:39"
   }
  ],
  "facts": [
