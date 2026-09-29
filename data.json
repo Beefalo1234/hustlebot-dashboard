@@ -1,12 +1,20 @@
 {
  "stats": {
   "sources": 50,
-  "facts": 112,
-  "proposals": 40,
-  "updated": "2026-09-25",
-  "redflags": 42
+  "facts": 120,
+  "proposals": 43,
+  "updated": "2026-09-29",
+  "redflags": 45
  },
  "sources": [
+  {
+   "id": "5vr-NJKVzEs",
+   "url": "https://www.youtube.com/watch?v=5vr-NJKVzEs",
+   "title": "Create 100 Money-Making AI Products in 5 Minutes",
+   "channel": "10X INCOME",
+   "platform": "youtube",
+   "scraped_at": "2026-09-29 18:56:19"
+  },
   {
    "id": "Xnla8a0eBdc",
    "url": "https://www.youtube.com/watch?v=Xnla8a0eBdc",
@@ -398,17 +406,89 @@
    "channel": "Nikki Connected",
    "platform": "youtube",
    "scraped_at": "2026-08-25 02:14:45"
-  },
-  {
-   "id": "sEfuolqQstA",
-   "url": "https://www.youtube.com/watch?v=sEfuolqQstA",
-   "title": "5 BEST AI Side Hustles for Beginners in 2026 (Personally Tested)",
-   "channel": "Paul J Lipsky",
-   "platform": "youtube",
-   "scraped_at": "2026-08-25 02:14:44"
   }
  ],
  "facts": [
+  {
+   "id": 120,
+   "source_id": "digest",
+   "category": "method",
+   "content": "AI clipping startup capital is about $20-$40/month in AI subscriptions using a three-tool stack; charge clients per page then offer monthly optimization, while e-commerce stacks can start with Shopify 3-day free trial and AutoDS $0.99.",
+   "math": "$20-$40/month; 3 tools; 3-day free trial; $0.99",
+   "links": "[\"https://www.youtube.com/watch?v=ytAW1_g2IfI\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-29 18:56:56"
+  },
+  {
+   "id": 119,
+   "source_id": "digest",
+   "category": "idea",
+   "content": "Legitimate AI service opportunities include AI agents, automation, consulting, niche content services, lead generation, app building, and AI-assisted websites; AI is the tool, not the business.",
+   "math": "",
+   "links": "[\"https://www.youtube.com/watch?v=ymyir9dXjd8\", \"https://www.youtube.com/watch?v=Xnla8a0eBdc\"]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-29 18:56:56"
+  },
+  {
+   "id": 118,
+   "source_id": "digest",
+   "category": "redflag",
+   "content": "A Shopify store can do $100,000 in sales and still barely profit after ads, product costs, returns, software, transaction fees, and shipping; if income comes from course/community/affiliate/templates, the seller is monetizing the method.",
+   "math": "$100,000 sales",
+   "links": "[\"https://www.youtube.com/watch?v=ymyir9dXjd8\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-29 18:56:56"
+  },
+  {
+   "id": 117,
+   "source_id": "digest",
+   "category": "method",
+   "content": "Before joining an AI earning platform, verify consistent real earnings chatter/screenshots, explicit payment methods, minimum withdrawal amounts, and payment schedule; avoid gift-card-only or obscure payment processors.",
+   "math": "",
+   "links": "[\"https://www.youtube.com/watch?v=pSxbMWOdxXA\"]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-29 18:56:56"
+  },
+  {
+   "id": 116,
+   "source_id": "digest",
+   "category": "redflag",
+   "content": "FTC case Ascend Ecom allegedly charged tens of thousands to start plus inventory, cost consumers at least $25M, and used testimonials claiming over $100,000/month risk-free; walk away from guaranteed income, passive/done-for-you profits, 'risk-free', and vague 'AI does everything' claims.",
+   "math": "$25M; $100,000/month",
+   "links": "[\"https://www.youtube.com/watch?v=Xnla8a0eBdc\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-29 18:56:56"
+  },
+  {
+   "id": 115,
+   "source_id": "digest",
+   "category": "math",
+   "content": "IRS hobby rule: a side hustle showing a loss in 3 of 5 consecutive years triggers hobby classification.",
+   "math": "3 of 5 consecutive years",
+   "links": "[\"https://www.youtube.com/watch?v=ntpzN_XlDXw\"]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-29 18:56:55"
+  },
+  {
+   "id": 114,
+   "source_id": "digest",
+   "category": "method",
+   "content": "Payment apps have a $20,000 and 200-transaction reporting threshold; staying under it does not make income invisible, and business payments should not run through personal checking.",
+   "math": "$20,000; 200 transactions",
+   "links": "[\"https://www.youtube.com/watch?v=ntpzN_XlDXw\"]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-29 18:56:55"
+  },
+  {
+   "id": 113,
+   "source_id": "digest",
+   "category": "math",
+   "content": "Side hustlers/sole proprietors misreport taxes at 55% vs 1% for W-2 employees; IRS starts relying on AI/automated enforcement in 2026 to close the gap.",
+   "math": "55%; 1%; 2026",
+   "links": "[\"https://www.youtube.com/watch?v=ntpzN_XlDXw\"]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-29 18:56:55"
+  },
   {
    "id": 112,
    "source_id": "digest",
@@ -1531,6 +1611,30 @@
   }
  ],
  "proposals": [
+  {
+   "id": 43,
+   "date": "2026-09-29",
+   "stack": "AI print-on-demand / digital products: AI design tool + PoD marketplace + niche store",
+   "math": "Product revenue = units x price (minus PoD + platform fees). SALVAGED (LlhTEttKcwQ): $12 workbook x 23 sales = $276 gross (real example, but influencer-audience sales, not cold). CREATOR CLAIM (5vr-NJKVzEs): freelance $500/design. REDFLAG: course-funnel heavy (3+ hr course upsells, 'comment free course', Shopify $1/mo claims). No guaranteed income \u2014 filter for sellable skill.",
+   "status": "proposed",
+   "created_at": "2026-09-29 19:02:18"
+  },
+  {
+   "id": 42,
+   "date": "2026-09-29",
+   "stack": "AI influencer / faceless avatar clips: niche site + AI avatar tool + sponsorship/affiliate",
+   "math": "Clipping = views/1000 x rate (Whop ~$0.60, Content Rewards ~$3.00 per 1k). SALVAGED (ytAW1_g2IfI): startup capital $20-40/mo in AI subscriptions, 3-tool stack. Monetize via sponsorship + affiliate. ASSUMED 100k views/mo -> $60 (Whop) to $300 (CR). REDFLAG: most 'AI influencer' gurus earn from selling the course/method, not the clips (ymyir9dXjd8, sQQN53qx-VI).",
+   "status": "proposed",
+   "created_at": "2026-09-29 19:02:18"
+  },
+  {
+   "id": 41,
+   "date": "2026-09-29",
+   "stack": "AI automation agency: useful lead-gen site (core) + AI automation + local-client retainer",
+   "math": "Lead-gen = booked jobs x price. CREATOR CLAIM (qSqq5I1WtCA): 10 clients x $500/mo = $5,000/mo 'very doable'. CREATOR CLAIM (3aeAy3Qs2UA): one local business paid $3,000 one-time for a rank-in-Google lead-gen site. Documented floor = white-label $50/mo/client. ASSUMED 5 clients x $50/mo -> $250/mo; the $500/mo tier is the unverified high end.",
+   "status": "proposed",
+   "created_at": "2026-09-29 19:02:18"
+  },
   {
    "id": 40,
    "date": "2026-09-22",
