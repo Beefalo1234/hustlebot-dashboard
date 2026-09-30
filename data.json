@@ -1,12 +1,20 @@
 {
  "stats": {
   "sources": 50,
-  "facts": 120,
+  "facts": 132,
   "proposals": 43,
-  "updated": "2026-09-29",
-  "redflags": 45
+  "updated": "2026-09-30",
+  "redflags": 56
  },
  "sources": [
+  {
+   "id": "_9svR_fPJyk",
+   "url": "https://www.youtube.com/watch?v=_9svR_fPJyk",
+   "title": "Red Flags The IRS is Looking For in 2026 (NEW AI Audit System)",
+   "channel": "Online Taxman - Global Expat Advisors",
+   "platform": "youtube",
+   "scraped_at": "2026-09-30 18:52:03"
+  },
   {
    "id": "5vr-NJKVzEs",
    "url": "https://www.youtube.com/watch?v=5vr-NJKVzEs",
@@ -398,17 +406,129 @@
    "channel": "Dan Martell",
    "platform": "youtube",
    "scraped_at": "2026-08-25 02:14:46"
-  },
-  {
-   "id": "xYsafbVLJG4",
-   "url": "https://www.youtube.com/watch?v=xYsafbVLJG4",
-   "title": "\ud83e\udd2f How To Build An App in 5 Minutes That Pays You Forever! AI Side Hustle Nobody Talks About",
-   "channel": "Nikki Connected",
-   "platform": "youtube",
-   "scraped_at": "2026-08-25 02:14:45"
   }
  ],
  "facts": [
+  {
+   "id": 132,
+   "source_id": "_aGMxMmJJj4",
+   "category": "method",
+   "content": "Local-business AI site agency: build sites in GoHighLevel, cold-text pitch ('I built one for you, can I send the link?'), upsell AI receptionist / booking / lead-gen for MRR. Handyman is a strong niche.",
+   "math": "",
+   "links": "[\"https://tkopod.com\"]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-09-30 18:56:04"
+  },
+  {
+   "id": 131,
+   "source_id": "3aeAy3Qs2UA",
+   "category": "method",
+   "content": "Sell AI-built websites to local businesses with no tech skills; creator claims $2,000-$5,000 per client via the GoHighLevel AI builder.",
+   "math": "$2,000-$5,000/client (CREATOR CLAIM)",
+   "links": "[\"https://gohighlevel.com/\"]",
+   "flags": "[\"redflag\", \"greenflag\"]",
+   "created_at": "2026-09-30 18:56:04"
+  },
+  {
+   "id": 130,
+   "source_id": "ymyir9dXjd8",
+   "category": "math",
+   "content": "Of 100 viral 'I make $10K/month with AI' claims tracked, only 12 survived proof/profit/repeatability checks.",
+   "math": "12/100 (~12%) verified",
+   "links": "[\"https://blmarketer.com/aisidehustleoptin\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-30 18:56:04"
+  },
+  {
+   "id": 129,
+   "source_id": "ntpzN_XlDXw",
+   "category": "math",
+   "content": "IRS claims 55% of sole proprietors underreport income; new 1099-K reporting rules are a top side-hustle audit trigger in 2026.",
+   "math": "55% sole-proprietor underreporting (IRS claim); $80B tax gap",
+   "links": "[\"https://taxgoddess.com/\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-30 18:56:04"
+  },
+  {
+   "id": 128,
+   "source_id": "_9svR_fPJyk",
+   "category": "redflag",
+   "content": "IRS AI audit red flags for side hustlers: lifestyle mismatch (income vs assets/social), profession-mismatched deductions, home-office/vehicle overreach (33% rule), hobby vs business (Section 183), missing 1099/W-2/third-party income, crypto-question mismatch on Form 1040.",
+   "math": "",
+   "links": "[\"https://onlinetaxman.com/\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-30 18:56:04"
+  },
+  {
+   "id": 127,
+   "source_id": "_9svR_fPJyk",
+   "category": "math",
+   "content": "IRS AI audit rollout: $80B enforcement funding; 126 AI applications deployed (up from 10 in 2022); ~25% of the human audit workforce replaced.",
+   "math": "$80B budget; 126 AI apps (vs 10 in 2022); 25% workforce cut",
+   "links": "[\"https://onlinetaxman.com/\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-30 18:56:04"
+  },
+  {
+   "id": 126,
+   "source_id": "Xnla8a0eBdc",
+   "category": "redflag",
+   "content": "FTC Operation AI Comply (Sept 2024) cracked down on AI business-opportunity schemes. Six scam red flags from real cases: guaranteed income, 'done-for-you', 'risk-free', 'AI as magic', pay-more-for-secrets, fake proof.",
+   "math": "FTC press release, Sept 25 2024",
+   "links": "[\"https://reportfraud.ftc.gov\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-30 18:56:04"
+  },
+  {
+   "id": 125,
+   "source_id": "digest",
+   "category": "redflag",
+   "content": "Video title 'How to Sell AI Websites to Local Businesses in 2026 (No Tech Skills)' may be a service/course pitch.",
+   "math": "",
+   "links": "[\"https://www.youtube.com/watch?v=3aeAy3Qs2UA\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-30 18:52:30"
+  },
+  {
+   "id": 124,
+   "source_id": "digest",
+   "category": "redflag",
+   "content": "Video title offers 'Best AI Side Hustles To Start In 2026 (No Skills)', a common low-barrier funnel signal.",
+   "math": "",
+   "links": "[\"https://www.youtube.com/watch?v=q1g65sjQI-4\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-30 18:52:30"
+  },
+  {
+   "id": 123,
+   "source_id": "digest",
+   "category": "redflag",
+   "content": "Multiple videos use 'Laziest Way to Make Money with AI' titles, typical low-effort side-hustle bait.",
+   "math": "",
+   "links": "[\"https://www.youtube.com/watch?v=LlhTEttKcwQ\", \"https://www.youtube.com/watch?v=uz_3dSU8rQo\", \"https://www.youtube.com/watch?v=ytAW1_g2IfI\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-30 18:52:30"
+  },
+  {
+   "id": 122,
+   "source_id": "digest",
+   "category": "redflag",
+   "content": "Video tracks 100 'I Make $10K/Month With AI' claims, a common guru earnings-claim pattern.",
+   "math": "100 claims; $10K/month",
+   "links": "[\"https://www.youtube.com/watch?v=ymyir9dXjd8\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-30 18:52:30"
+  },
+  {
+   "id": 121,
+   "source_id": "digest",
+   "category": "redflag",
+   "content": "Video promises 'Make Money With Ai [Earn $1000+]' with no transcript, indicating a potential fake-earnings claim.",
+   "math": "$1000+",
+   "links": "[\"https://www.youtube.com/watch?v=0qrysp7iZ2E\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-09-30 18:52:29"
+  },
   {
    "id": 120,
    "source_id": "digest",
