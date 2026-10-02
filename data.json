@@ -1,10 +1,10 @@
 {
  "stats": {
   "sources": 50,
-  "facts": 132,
-  "proposals": 43,
-  "updated": "2026-09-30",
-  "redflags": 56
+  "facts": 140,
+  "proposals": 46,
+  "updated": "2026-10-02",
+  "redflags": 61
  },
  "sources": [
   {
@@ -409,6 +409,86 @@
   }
  ],
  "facts": [
+  {
+   "id": 140,
+   "source_id": "digest",
+   "category": "method",
+   "content": "IRS audit-risk reduction for side hustles: separate bank accounts, a real business plan, marketing activity, and documentation that the activity is a legitimate profit attempt; repeated losses and side income are audit triggers.",
+   "math": "$70,000 income example",
+   "links": "[\"https://www.youtube.com/watch?v=_9svR_fPJyk\"]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-10-02 15:29:30"
+  },
+  {
+   "id": 139,
+   "source_id": "digest",
+   "category": "idea",
+   "content": "Best AI side hustles use AI to create something people already pay for faster/cheaper/at scale; avoid 'make money with AI by selling AI' and 'let the bot trade for you'.",
+   "math": "",
+   "links": "[\"https://www.youtube.com/watch?v=q1g65sjQI-4\"]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-10-02 15:29:30"
+  },
+  {
+   "id": 138,
+   "source_id": "digest",
+   "category": "method",
+   "content": "AI website service method: charge clients per page initially, then offer monthly optimization; startup AI subscriptions are around $20-$40/month with a three-tool stack; Shopify has a 3-day free trial and AutoDS costs $0.99 to start.",
+   "math": "$20-$40/month; 3 tools; Shopify 3-day trial; AutoDS $0.99",
+   "links": "[\"https://www.youtube.com/watch?v=ytAW1_g2IfI\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-10-02 15:29:30"
+  },
+  {
+   "id": 137,
+   "source_id": "digest",
+   "category": "redflag",
+   "content": "Video claims a software reseller model: each new client adds $0/month cost, charge $50/month, and 100 customers equals $7,500/month almost pure profit.",
+   "math": "$0 cost; $50/month; 100 customers = $7,500/month; ~$100,000/year",
+   "links": "[\"https://www.youtube.com/watch?v=_aGMxMmJJj4\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-10-02 15:29:30"
+  },
+  {
+   "id": 136,
+   "source_id": "digest",
+   "category": "method",
+   "content": "To vet an online earning platform, check for consistent user chatter and real earnings screenshots, explicit payment methods/minimum withdrawal/schedule, and avoid gift-card-only or obscure processors; verify official terms because rates and geo-eligibility change.",
+   "math": "",
+   "links": "[\"https://www.youtube.com/watch?v=pSxbMWOdxXA\"]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-10-02 15:29:30"
+  },
+  {
+   "id": 135,
+   "source_id": "digest",
+   "category": "math",
+   "content": "A Shopify store can do $100,000 in sales and still barely profit after ads, product costs, returns, software, transaction fees, and shipping.",
+   "math": "$100,000 sales",
+   "links": "[\"https://www.youtube.com/watch?v=ymyir9dXjd8\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-10-02 15:29:30"
+  },
+  {
+   "id": 134,
+   "source_id": "digest",
+   "category": "redflag",
+   "content": "If an AI side hustle's income comes from selling a course, community, affiliate link, software subscription, or templates around the method, it is selling the method rather than proving the method works.",
+   "math": "",
+   "links": "[\"https://www.youtube.com/watch?v=ymyir9dXjd8\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-10-02 15:29:30"
+  },
+  {
+   "id": 133,
+   "source_id": "digest",
+   "category": "redflag",
+   "content": "FTC case: Ascend Ecom allegedly sold AI e-commerce passive-income tools, charged tens of thousands upfront plus inventory, used $100,000/month profit testimonials, and called the investment risk-free; consumer loss was at least $25 million.",
+   "math": "tens of thousands upfront; $100,000/month profit claims; at least $25M consumer loss",
+   "links": "[\"https://www.youtube.com/watch?v=Xnla8a0eBdc\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-10-02 15:29:30"
+  },
   {
    "id": 132,
    "source_id": "_aGMxMmJJj4",
@@ -1731,6 +1811,30 @@
   }
  ],
  "proposals": [
+  {
+   "id": 46,
+   "date": "2026-10-02",
+   "stack": "Faceless AI influencer: AI-assisted content + affiliate + clipping payouts",
+   "math": "Clipping: views/1000 x rate. Whop ~$0.60, Content Rewards ~$3.00 per 1k views. 100k views/mo = $60-$300. Affiliate: 23 sales x $12 = $276 (video, before PayPal fee $19.52). Startup $20-$40/mo AI subs. Overlaps existing clip-farm ops.",
+   "status": "proposed",
+   "created_at": "2026-10-02 15:33:39"
+  },
+  {
+   "id": 45,
+   "date": "2026-10-02",
+   "stack": "White-label SaaS reseller: resell software tools to SMBs at $50/mo/client",
+   "math": "White-label subs: clients x $50/mo. 20 clients = $1,000/mo; 100 clients = $5,000/mo (video claimed $7,500/mo ~pure profit). Margin ~100% minus platform fee. Startup ~$20-$40/mo AI subs. Real model, low marginal cost.",
+   "status": "proposed",
+   "created_at": "2026-10-02 15:33:39"
+  },
+  {
+   "id": 44,
+   "date": "2026-10-02",
+   "stack": "Local lead-gen website stack: AI site builder + local SEO/Google Maps + lead-capture form",
+   "math": "Lead-gen: booked jobs x price. Video claimed $3,000/site for local businesses. Conservative $800-$1,500/site; 3 jobs/mo x $1,000 = $3,000/mo gross. Tool cost ~$30/mo. Flag: source pushes 'free course' (redflag funnel) but method is real.",
+   "status": "proposed",
+   "created_at": "2026-10-02 15:33:39"
+  },
   {
    "id": 43,
    "date": "2026-09-29",
