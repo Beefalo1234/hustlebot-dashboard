@@ -1,12 +1,36 @@
 {
  "stats": {
   "sources": 50,
-  "facts": 140,
-  "proposals": 46,
-  "updated": "2026-10-02",
-  "redflags": 61
+  "facts": 148,
+  "proposals": 48,
+  "updated": "2026-10-05",
+  "redflags": 64
  },
  "sources": [
+  {
+   "id": "0m5274AeM8c",
+   "url": "https://www.youtube.com/watch?v=0m5274AeM8c",
+   "title": "$10K a Month With AI We Fact-Checked the Gurus",
+   "channel": "Vibe but Verify",
+   "platform": "youtube",
+   "scraped_at": "2026-10-05 16:01:37"
+  },
+  {
+   "id": "xu3GNMQH52Y",
+   "url": "https://www.youtube.com/watch?v=xu3GNMQH52Y",
+   "title": "AI Side Hustle Red Flags",
+   "channel": "Money Mode Daily ",
+   "platform": "youtube",
+   "scraped_at": "2026-10-05 16:01:33"
+  },
+  {
+   "id": "ecb_2ZHVPIo",
+   "url": "https://www.youtube.com/watch?v=ecb_2ZHVPIo",
+   "title": "New AI Side Hustle: Turn Ugly Local Websites Into $500/Day",
+   "channel": "Abou Toure",
+   "platform": "youtube",
+   "scraped_at": "2026-10-05 16:01:21"
+  },
   {
    "id": "LuOA8ocriX4",
    "url": "https://www.youtube.com/watch?v=LuOA8ocriX4",
@@ -382,33 +406,89 @@
    "channel": "Tax Goddess - Top 1% Tax Strategist in USA",
    "platform": "youtube",
    "scraped_at": "2026-08-25 02:14:51"
-  },
-  {
-   "id": "ymyir9dXjd8",
-   "url": "https://www.youtube.com/watch?v=ymyir9dXjd8",
-   "title": "I Tracked 100 \"I Make $10K/Month With AI\" Claims, How many are Real?",
-   "channel": "AI side hustle tutorial",
-   "platform": "youtube",
-   "scraped_at": "2026-08-25 02:14:50"
-  },
-  {
-   "id": "ytAW1_g2IfI",
-   "url": "https://www.youtube.com/watch?v=ytAW1_g2IfI",
-   "title": "Laziest Ways to Make Money with AI (For Beginners)",
-   "channel": "Mark Tilbury",
-   "platform": "youtube",
-   "scraped_at": "2026-08-25 02:14:49"
-  },
-  {
-   "id": "z_Ib7A0-0R4",
-   "url": "https://www.youtube.com/watch?v=z_Ib7A0-0R4",
-   "title": "Laziest Ways To Make Money With AI ($100/day+)",
-   "channel": "Jordan Welch",
-   "platform": "youtube",
-   "scraped_at": "2026-08-25 02:14:47"
   }
  ],
  "facts": [
+  {
+   "id": 148,
+   "source_id": "digest",
+   "category": "redflag",
+   "content": "Course-funnel red flags: 'PDF Trend Lab' claims $600/day selling PDF guides and pushes a 3+ hour course; another local lead-gen pitch uses 'comment free course' and claims a $3,000 smart website sale.",
+   "math": "$600/day; $3,000",
+   "links": "[\"https://www.youtube.com/watch?v=-pp851qDmOY\", \"https://www.youtube.com/watch?v=3aeAy3Qs2UA\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-10-05 16:02:10"
+  },
+  {
+   "id": 147,
+   "source_id": "digest",
+   "category": "math",
+   "content": "AI influencer workbook case: sold a $12 workbook 23 times for $276 revenue; PayPal fees were $19.52, but total cost was claimed as $11,852.",
+   "math": "$12 \u00d7 23 = $276; PayPal $19.52; total cost $11,852",
+   "links": "[\"https://www.youtube.com/watch?v=LlhTEttKcwQ\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-10-05 16:02:10"
+  },
+  {
+   "id": 146,
+   "source_id": "digest",
+   "category": "redflag",
+   "content": "FTC case: Ascend Ecom claimed AI tools would generate thousands/month in passive income from online stores, charged tens of thousands to start plus inventory, cost consumers at least $25M, used testimonials of over $100k/month profit, and called the investment risk-free.",
+   "math": "$25M; $100,000/month; tens of thousands",
+   "links": "[\"https://www.youtube.com/watch?v=Xnla8a0eBdc\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-10-05 16:02:10"
+  },
+  {
+   "id": 145,
+   "source_id": "digest",
+   "category": "method",
+   "content": "For side-hustle tax compliance, keep separate bank accounts, a real business plan, marketing activity, and documentation; repeated losses with no profit path and side income through DoorDash/eBay/Venmo are audit triggers.",
+   "math": "reported $70,000 income example",
+   "links": "[\"https://www.youtube.com/watch?v=_9svR_fPJyk\"]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-10-05 16:02:10"
+  },
+  {
+   "id": 144,
+   "source_id": "digest",
+   "category": "method",
+   "content": "Test small with one customer type, one painful problem, one simple offer, and one paying customer; do not feed private customer data into random tools.",
+   "math": "",
+   "links": "[\"https://www.youtube.com/watch?v=xu3GNMQH52Y\"]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-10-05 16:02:10"
+  },
+  {
+   "id": 143,
+   "source_id": "digest",
+   "category": "method",
+   "content": "Before buying an AI course or bot, require answers for who pays, what they receive, why they cannot do it themselves, delivery costs, and customer acquisition; if the answer is passive income/scale, it is not a plan.",
+   "math": "",
+   "links": "[\"https://www.youtube.com/watch?v=xu3GNMQH52Y\"]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-10-05 16:02:10"
+  },
+  {
+   "id": 142,
+   "source_id": "digest",
+   "category": "method",
+   "content": "Use AI to deliver an existing paid service faster, cheaper, or at scale rather than selling AI itself; AI agents can answer calls, book appointments, and handle basic objections.",
+   "math": "",
+   "links": "[\"https://www.youtube.com/watch?v=q1g65sjQI-4\"]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-10-05 16:02:10"
+  },
+  {
+   "id": 141,
+   "source_id": "digest",
+   "category": "math",
+   "content": "2025 Bankrate survey: side hustlers average $885/month; Upwork 2026 report: AI/creative contracts +90%, paper contracts -13%, AI freelancers +34% hourly, experts adding AI +22%, image freelancers -9%.",
+   "math": "$885/month; 90%, 13%, 34%, 22%, 9%",
+   "links": "[\"https://www.youtube.com/watch?v=0m5274AeM8c\"]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-10-05 16:02:10"
+  },
   {
    "id": 140,
    "source_id": "digest",
@@ -1811,6 +1891,22 @@
   }
  ],
  "proposals": [
+  {
+   "id": 48,
+   "date": "2026-10-05",
+   "stack": "PDF guide products: Claude trend research + PDF Trend Lab + Shopify ($1/mo trial) or Payhip + $0 SEO/Pinterest",
+   "math": "Source claims $600/day (video -pp851qDmOY) \u2014 UNVERIFIED and behind a course funnel, flag as redflag. Real mechanics: use Claude to research trending PDF-topic demand, write a short guide/template, list on Shopify ($1/mo x3mo) or Payhip (pay-per-sale). Digital margin ~95% minus PayPal ~2.9%+$0.30. Conservative: $8/guide x 25 sales/mo = $200/mo; scale to $15 x 50 = $750/mo. Redflag: source sells a 3+ hour course + 'push the buttons' funnel \u2014 salvage the method, ignore the pitch.",
+   "status": "proposed",
+   "created_at": "2026-10-05 16:07:17"
+  },
+  {
+   "id": 47,
+   "date": "2026-10-05",
+   "stack": "Freelance writing + AI: ChatGPT drafts/edits + Upwork/Fiverr clients + existing niche skill",
+   "math": "Source data (video 0m5274AeM8c, industry surveys \u2014 verifiable, NOT a guru claim): Bankrate 2025 survey avg US side hustle = $885/mo; Upwork 2026 report gen-AI contracts +90% and AI-fluent freelancers earn +34% hourly; workers who add AI to an existing skill +22% earnings. Conservative service math: 5 articles/mo x $100 = $500/mo gross; ChatGPT Plus $20/mo; net ~$480/mo. Scale: 10 articles/mo x $100 = $1,000/mo. Redflag: source leans on '34% more' without showing receipts \u2014 treat as direction, not guaranteed.",
+   "status": "proposed",
+   "created_at": "2026-10-05 16:07:16"
+  },
   {
    "id": 46,
    "date": "2026-10-02",
