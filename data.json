@@ -1,10 +1,10 @@
 {
  "stats": {
   "sources": 50,
-  "facts": 156,
+  "facts": 162,
   "proposals": 50,
-  "updated": "2026-10-06",
-  "redflags": 69
+  "updated": "2026-10-07",
+  "redflags": 74
  },
  "sources": [
   {
@@ -409,6 +409,66 @@
   }
  ],
  "facts": [
+  {
+   "id": 162,
+   "source_id": "digest",
+   "category": "redflag",
+   "content": "Title uses 'The NEW AI Side Hustle That's Making People RICH'; vague wealth claim.",
+   "math": "",
+   "links": "[\"https://www.youtube.com/watch?v=CXf_UsxGrfg\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-10-07 18:31:49"
+  },
+  {
+   "id": 161,
+   "source_id": "digest",
+   "category": "redflag",
+   "content": "Title uses 'Laziest Way to Make Money with AI' and 'Starting From Zero'; common hype phrasing.",
+   "math": "",
+   "links": "[\"https://www.youtube.com/watch?v=uz_3dSU8rQo\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-10-07 18:31:49"
+  },
+  {
+   "id": 160,
+   "source_id": "digest",
+   "category": "greenflag",
+   "content": "Title references 6 red flags an AI side hustle is a scam with real FTC cases; potentially useful anti-scam source but no transcript details.",
+   "math": "6",
+   "links": "[\"https://www.youtube.com/watch?v=Xnla8a0eBdc\"]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-10-07 18:31:49"
+  },
+  {
+   "id": 159,
+   "source_id": "digest",
+   "category": "redflag",
+   "content": "Title claims $10K/Month with AI and tracked 100 claims; no transcript or results.",
+   "math": "$10K/Month, 100 claims",
+   "links": "[\"https://www.youtube.com/watch?v=ymyir9dXjd8\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-10-07 18:31:49"
+  },
+  {
+   "id": 158,
+   "source_id": "digest",
+   "category": "redflag",
+   "content": "Title promises making money on YouTube with AI in 5 minutes; no transcript or evidence.",
+   "math": "5 minutes",
+   "links": "[\"https://www.youtube.com/watch?v=KRHv3DCJgKw\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-10-07 18:31:49"
+  },
+  {
+   "id": 157,
+   "source_id": "digest",
+   "category": "redflag",
+   "content": "Title promises $500/Day from AI side hustle turning local websites; no transcript or evidence.",
+   "math": "$500/Day",
+   "links": "[\"https://www.youtube.com/watch?v=ecb_2ZHVPIo\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-10-07 18:31:49"
+  },
   {
    "id": 156,
    "source_id": "digest",
