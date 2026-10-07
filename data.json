@@ -1,12 +1,20 @@
 {
  "stats": {
   "sources": 50,
-  "facts": 148,
-  "proposals": 48,
-  "updated": "2026-10-05",
-  "redflags": 64
+  "facts": 156,
+  "proposals": 50,
+  "updated": "2026-10-06",
+  "redflags": 69
  },
  "sources": [
+  {
+   "id": "CXf_UsxGrfg",
+   "url": "https://www.youtube.com/watch?v=CXf_UsxGrfg",
+   "title": "The NEW AI Side Hustle That's Making People RICH",
+   "channel": "Wholesale Ted",
+   "platform": "youtube",
+   "scraped_at": "2026-10-06 21:05:39"
+  },
   {
    "id": "0m5274AeM8c",
    "url": "https://www.youtube.com/watch?v=0m5274AeM8c",
@@ -398,17 +406,89 @@
    "channel": "Hustle For Street",
    "platform": "youtube",
    "scraped_at": "2026-08-25 02:14:53"
-  },
-  {
-   "id": "ntpzN_XlDXw",
-   "url": "https://www.youtube.com/watch?v=ntpzN_XlDXw",
-   "title": "The IRS AI is Hunting Side Hustles 3 Red Flags to Wipe Out NOW",
-   "channel": "Tax Goddess - Top 1% Tax Strategist in USA",
-   "platform": "youtube",
-   "scraped_at": "2026-08-25 02:14:51"
   }
  ],
  "facts": [
+  {
+   "id": 156,
+   "source_id": "digest",
+   "category": "math",
+   "content": "AI-influencer workbook case study: 23 sales at $12 = $276 revenue; PayPal fees $19.52; reported total cost $11,852 is inconsistent with those figures.",
+   "math": "23 \u00d7 $12 = $276; PayPal fees $19.52; reported total cost $11,852",
+   "links": "[\"https://www.youtube.com/watch?v=LlhTEttKcwQ\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-10-06 21:06:23"
+  },
+  {
+   "id": 155,
+   "source_id": "digest",
+   "category": "redflag",
+   "content": "A Shopify store can do $100,000 in sales and still barely profit after ads, product costs, returns, software, transaction fees, and shipping; if the presenter's money comes from a course, community, or affiliate funnel, they are selling the method.",
+   "math": "$100,000",
+   "links": "[\"https://www.youtube.com/watch?v=ymyir9dXjd8\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-10-06 21:06:23"
+  },
+  {
+   "id": 154,
+   "source_id": "digest",
+   "category": "method",
+   "content": "Before buying an AI course or bot, specify who pays, what they receive, why they cannot do it themselves, delivery costs, and how you will find customers; if the answer is 'passive income and scale,' it is not a plan.",
+   "math": "",
+   "links": "[\"https://www.youtube.com/watch?v=xu3GNMQH52Y\"]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-10-06 21:06:23"
+  },
+  {
+   "id": 153,
+   "source_id": "digest",
+   "category": "redflag",
+   "content": "Walk away from guaranteed income numbers, passive or done-for-you profits, risk-free claims, and vague claims that AI does everything; AI is a tool, not the business.",
+   "math": "",
+   "links": "[\"https://www.youtube.com/watch?v=Xnla8a0eBdc\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-10-06 21:06:23"
+  },
+  {
+   "id": 152,
+   "source_id": "digest",
+   "category": "redflag",
+   "content": "FTC case Ascend Ecom: charged tens of thousands to start plus inventory, claimed clients made over $100,000/month profit, called the investment risk-free; consumers allegedly lost at least $25M.",
+   "math": "$100,000/month; at least $25M; tens of thousands",
+   "links": "[\"https://www.youtube.com/watch?v=Xnla8a0eBdc\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-10-06 21:06:23"
+  },
+  {
+   "id": 151,
+   "source_id": "digest",
+   "category": "method",
+   "content": "Local lead-generation website offer: pitch a simple site that helps local businesses rank on Google and collect customer info; one example client paid $3,000.",
+   "math": "$3,000",
+   "links": "[\"https://www.youtube.com/watch?v=3aeAy3Qs2UA\"]",
+   "flags": "[\"redflag\"]",
+   "created_at": "2026-10-06 21:06:23"
+  },
+  {
+   "id": 150,
+   "source_id": "digest",
+   "category": "method",
+   "content": "For side-hustle tax deductions, keep separate bank accounts, a real business plan, marketing activity, and documentation that the activity is a legitimate attempt to make money.",
+   "math": "",
+   "links": "[\"https://www.youtube.com/watch?v=_9svR_fPJyk\"]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-10-06 21:06:23"
+  },
+  {
+   "id": 149,
+   "source_id": "digest",
+   "category": "method",
+   "content": "Amazon Associates pays commission on everything a customer buys within the 24-hour cookie window, not only the linked item.",
+   "math": "24 hours",
+   "links": "[\"https://www.youtube.com/watch?v=CXf_UsxGrfg\"]",
+   "flags": "[\"greenflag\"]",
+   "created_at": "2026-10-06 21:06:23"
+  },
   {
    "id": 148,
    "source_id": "digest",
@@ -1891,6 +1971,22 @@
   }
  ],
  "proposals": [
+  {
+   "id": 50,
+   "date": "2026-10-06",
+   "stack": "Side-hustle 'scam-screen' due-diligence audit: red-flag checklist + FTC-cited warning signs -> buy/don't-buy report",
+   "math": "Booked jobs, price $50-100/audit (unverified, no source anchor). Demand signal = FTC cases cost consumers $25M+ (Ascend Ecom). Revenue UNKNOWN (0 clients booked).",
+   "status": "proposed",
+   "created_at": "2026-10-06 21:07:55"
+  },
+  {
+   "id": 49,
+   "date": "2026-10-06",
+   "stack": "AI-hustle scam registry: useful red-flag website (core) + FTC enforcement data + affiliate on verified-legit tools",
+   "math": "Core = searchable DB of AI-hustle red flags (FTC wording: 'guaranteed income', 'risk-free', 'done-for-you profits', 'AI does everything'). Named case: Ascend Ecom \u2014 FTC says it cost consumers $25M+. Monetize: Amazon Associates 1-10% on legit tools that PASS the checklist + newsletter. Revenue UNKNOWN (no traffic yet); conservative 0 views = $0.",
+   "status": "proposed",
+   "created_at": "2026-10-06 21:07:55"
+  },
   {
    "id": 48,
    "date": "2026-10-05",
